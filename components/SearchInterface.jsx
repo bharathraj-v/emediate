@@ -222,9 +222,10 @@ const SearchInterface = () => {
                 <div className="w-full">
                   <div className="h-64 py-3 rounded text-center">
                     <h1 className="text-2xl font-bold">OTP Verification</h1>
-                    <div className="flex flex-col mt-4">
+                    <div className="flex py-2 flex-col mt-4">
+                    <span>Hello {firstName+" "+lastName}!</span>
                       <span>Enter the OTP you received at</span>
-                      <span className="font-bold">+91 *******{phoneNumber.slice(-3)}</span>
+                      <span className="font-bold">{phoneNumber}</span>
                     </div>
                     <div
                       id="otp"
