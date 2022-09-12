@@ -7,8 +7,10 @@ const Navbar = () => {
         <>
   <nav className="bg-gray-900">
     <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl px- md:px-6 py-4">
-      <a className="flex items-center">
-        <button onClick={()=>window.location.reload(false)}>
+      <Link 
+      href={"/"} passHref
+      className="flex items-center">
+        <button>
         <span className="self-center text-xl font-bold 
         hover:font-bold
         hover:text-blue-800
@@ -16,10 +18,10 @@ const Navbar = () => {
           E-Mediate
         </span>
         </button>
-      </a>
+      </Link>
       <div className="flex items-center">
         <Link
-          href="#"
+          href={"/login"} passHref
         >
             <div className="flex space-x-2 items-center
              hover:space-x-4 

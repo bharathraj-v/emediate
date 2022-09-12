@@ -83,7 +83,7 @@ const SearchInterface = () => {
     if (!otpStatus){
       return (
         <div className="flex h-[88%]  items-center justify-center">
-            <form className="w-full max-w-lg">
+            <div className="w-full max-w-lg">
             <div className="flex flex-wrap -mx-12 mb-6">
                     <div className="w-full  px-3 mb-6 md:mb-0">
                         <label className="block py-3 text-gray-700 text-2xl font-bold mb-2" >
@@ -210,7 +210,7 @@ const SearchInterface = () => {
                         </button>
                     </div>
                 </div>
-            </form>
+            </div>
         </div>
     )
     } else if (otpStatus === 1){
