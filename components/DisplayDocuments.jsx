@@ -10,7 +10,7 @@ const DisplayDocuments = ({
             <div class="overflow-x-auto relative">
                 <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
                     <tbody>
-                        <tr class="bg-white">
+                        <tr>
                             <th scope="row" class="py-2 px-6 font-bold  text-gray-900 whitespace-nowrap">
                                 First Name:
                             </th>
@@ -18,7 +18,7 @@ const DisplayDocuments = ({
                                 {firstName}
                             </td>
                         </tr>
-                        <tr class="bg-white">
+                        <tr>
                             <th scope="row" class="py-2 px-6 font-bold  text-gray-900 whitespace-nowrap">
                                 Last Name:
                             </th>
@@ -26,7 +26,7 @@ const DisplayDocuments = ({
                                 {lastName}
                             </td>
                         </tr>
-                        <tr class="bg-white">
+                        <tr>
                             <th scope="row" class="py-2 px-6 font-bold  text-gray-900 whitespace-nowrap">
                                 Mediator Name:
                             </th>
@@ -40,7 +40,7 @@ const DisplayDocuments = ({
             <div class="overflow-x-auto relative">
                 <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
                     <tbody>
-                        <tr class="bg-white">
+                        <tr>
                             <th scope="row" class="py-2 px-6 font-bold  text-gray-900 whitespace-nowrap">
                                 State:
                             </th>
@@ -48,7 +48,7 @@ const DisplayDocuments = ({
                                 Texas
                             </td>
                         </tr>
-                        <tr class="bg-white">
+                        <tr>
                             <th scope="row" class="py-2 px-6 font-bold  text-gray-900 whitespace-nowrap">
                                 Case ID:
                             </th>
@@ -56,7 +56,7 @@ const DisplayDocuments = ({
                                 {caseId}
                             </td>
                         </tr>
-                        <tr class="bg-white">
+                        <tr>
                             <th scope="row" class="py-2 px-6 font-bold  text-gray-900 whitespace-nowrap">
                                 Date:
                             </th>
