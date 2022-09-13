@@ -5,8 +5,8 @@ const DisplayDocuments = ({
     caseId
 }) => {
     return (
-        <div className="flex overflow-y-scroll flex-col h-screen mx-2 my-11">
-        <div className="flex space-x-[25%] justify-between items-center mx-2">
+        <div className="flex overflow-y-scroll flex-col h-screen  mx-4 my-11">
+        <div className="flex space-x-[25%] justify-between items-center mx-4">
             <div class="overflow-x-auto relative">
                 <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
                     <tbody>

@@ -44,21 +44,19 @@ const Navbar = () => {
       <div className="flex items-center">
         <ul className="flex flex-row space-x-10 text-sm font-medium">
           <li>
-            <a
-              href="#"
-              className="text-white hover:text-blue-500"
-              aria-current="page"
+            <Link 
+              href={"/register"} passHref
             >
-              Register
-            </a>
+              <p className="text-white cursor-pointer hover:text-blue-500">Register</p>
+            </Link>
           </li>
           <li>
-            <a
-              href="#"
+            <button
+              onClick={() => { window.open('mailto:e-mediate-admin@e-court.gov','_self')}}
               className="text-white hover:text-blue-500"
             >
-              Case History
-            </a>
+              Contact Us
+            </button>
           </li>
         </ul>
       </div>
