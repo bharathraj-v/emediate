@@ -1,16 +1,18 @@
-import React from "react";
+import {useState, React} from "react";
+
 import Link from "next/link";
 import { RiLoginBoxFill } from "react-icons/ri"; 
 
 const Navbar = () => {
+  
     return (
         <>
   <nav className="bg-gray-900">
     <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl px- md:px-6 py-4">
-      <Link 
-      href={"/"} passHref
-      className="flex items-center">
-        <button>
+        <button 
+        className="flex items-center"
+        onClick ={()=>{
+          window.location='/'}}>
         <span className="self-center text-xl font-bold 
         hover:font-bold
         hover:text-blue-800
@@ -18,7 +20,6 @@ const Navbar = () => {
           E-Mediate
         </span>
         </button>
-      </Link>
       <div className="flex items-center">
         <Link
           href={"/login"} passHref
