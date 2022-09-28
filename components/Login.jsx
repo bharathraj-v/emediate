@@ -76,9 +76,8 @@ const Login = () => {
                                 Don’t have an account yet?{" "}
                             </p>
                             <Link
-                                    href="/register"
-                                    
-                                >
+                                    href={"/register"} passHref
+                                  >  
                                     <p className="text-sm text-blue-400 hover:underline cursor-pointer">Register here</p>
                                 </Link>
                             </div>
