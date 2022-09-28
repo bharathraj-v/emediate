@@ -8,9 +8,9 @@ const ForgotPassword = ({ forgot }) => {
         return (
             <div className="flex h-[88%]  justify-items-center justify-between">
                 <p className="text-sm text-gray-200">
-                    Please contact " 
+                    Please contact &apos; 
                     <button onClick={() => { window.open('mailto:e-mediate-admin@e-court.gov','_self')}}>
-                        <u>e-mediate-admin@e-court.gov</u></button>" to reset your password. Attach your previous
+                        <u>e-mediate-admin@e-court.gov</u></button>&apos; to reset your password. Attach your previous
                     Arbitration details and send out your new password. Your request will be processed within 24 hours.
                 </p>
             </div>
