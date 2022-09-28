@@ -1,4 +1,5 @@
 import { React, useState } from 'react';
+import Upload from './Upload';
 import Link from 'next/link'
 
 const ForgotPassword = ({ forgot }) => {
@@ -35,7 +36,7 @@ const Login = () => {
                 <div className="w-full rounded-lg shadow border md:mt-0 sm:max-w-md xl:p bg-gray-800 border-gray-800">
                     <div className="p-6 space-y-4 md:space-y-6 sm:p-8">
                         <h1 className="text-xl font-bold leading-tight tracking-tight text-gray-900 md:text-2xl dark:text-white">
-                            Admin Login for Mediators
+                            Admin Login for Registered Users
                         </h1>
                         <div className="space-y-4 md:space-y-6">
                                 <label
@@ -85,6 +86,12 @@ const Login = () => {
         </section>
 
     )
+    } else {
+        return (
+        <>
+        <Upload />
+        </>
+        )
     }
 }
 

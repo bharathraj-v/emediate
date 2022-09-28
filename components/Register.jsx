@@ -41,7 +41,8 @@ const STATES_OF_INDIA = [
 
 
 const Register= () => {
-    const [open, setOpen] = useState(false);
+    const [ open, setOpen ] = useState(false);
+    const [ caseType, setCaseType ] = useState(null)
 
     if (open) {
     return (
@@ -347,12 +348,14 @@ const Register= () => {
                 </div>
                 <div className="flex flex-wrap justify-center px-2 -mx-44 mb-2">
                 <button 
+                        onClick={()=>{window.alert("Registration Successful! \nPlease Login from Admin for File Upload")
+                        window.location = "/"}}
                         className="appearance-none 
                         block w-full  bg-gray-600 text-white border 
                         border-gray-300
                         hover:bg-blue-900
                         hover:font-bold
-                        rounded py-3 px-5 mb-3">
+                        rounded py-3 px-5  mt-3 mb-3">
                         Submit
                         </button>
                 </div>
