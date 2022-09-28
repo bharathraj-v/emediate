@@ -44,6 +44,10 @@ const Register= () => {
     const [ open, setOpen ] = useState(false);
     const [ caseType, setCaseType ] = useState(null)
 
+    const handleCaseType = (e) => {
+        setCaseType(e.target.value)
+    }
+
     if (open) {
     return (
         <div className="flex h-[90%] bg-white w-full  items-center justify-center">

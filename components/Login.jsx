@@ -6,11 +6,11 @@ const ForgotPassword = ({ forgot }) => {
 
     if (forgot) {
         return (
-            <div className="flex h-[88%] w-72 justify-items-center justify-between">
+            <div className="flex h-[88%]  justify-items-center justify-between">
                 <p className="text-sm text-gray-200">
-                    Please contact 
+                    Please contact " 
                     <button onClick={() => { window.open('mailto:e-mediate-admin@e-court.gov','_self')}}>
-                        <u>e-mediate-admin@e-court.gov</u></button> to reset your password. Attach your previous
+                        <u>e-mediate-admin@e-court.gov</u></button>" to reset your password. Attach your previous
                     Arbitration details and send out your new password. Your request will be processed within 24 hours.
                 </p>
             </div>
@@ -71,15 +71,17 @@ const Login = () => {
                             >
                                 Sign in
                             </button>
+                            <div className='flex space-x-1'>
                             <p className="text-sm font-light text-gray-500 dark:text-gray-400">
                                 Don’t have an account yet?{" "}
-                                <Link
-                                    href="#"
-                                    className="font-medium text-gray-400 hover:underline"
-                                >
-                                    Register here
-                                </Link>
                             </p>
+                            <Link
+                                    href="/register"
+                                    
+                                >
+                                    <p className="text-sm text-blue-400 hover:underline cursor-pointer">Register here</p>
+                                </Link>
+                            </div>
                     </div>
                 </div>
             </div>
