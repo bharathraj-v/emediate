@@ -1,5 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import DisplayDocuments from './DisplayDocuments';
+import { FaSearch } from "react-icons/fa"; 
+import { RiArrowDropDownLine } from "react-icons/ri";
+
 
 const STATES_OF_INDIA = [
     "Andhra Pradesh",
@@ -42,6 +45,7 @@ const STATES_OF_INDIA = [
 
 
 const SearchInterface = () => {
+    const [search, setSearch] = useState(false);
     const [phoneNumber, setPhoneNumber] = useState("");
     const [otpStatus, setOtpStatus] = useState(null);
     const [firstName, setFirstName] = useState("");
@@ -85,11 +89,18 @@ const SearchInterface = () => {
         <div className="flex h-[88%]  items-center justify-center">
             <div className="w-full max-w-lg">
             <div className="flex flex-wrap -mx-12 mb-6">
-                    <div className="w-full  px-3 mb-6 md:mb-0">
-                        <label className="block py-3 text-gray-700 text-2xl font-bold mb-2" >
-                            Search your Case Documents:</label>
-                    </div>
+                    <button
+                    onClick={() => setSearch(!search)} 
+                    className="flex ml-3 mr-3 bg-gray-700 rounded-full text-white justify-between items-center w-full  px-14 mb-5 md:mb-0
+                    hover:bg-blue-900 ">
+                        <label className="block py-3  text-2xl font-bold " >
+                            Search your Case Documents</label>
+                        {(!search)? (<><FaSearch className='flex'/></>):(<><RiArrowDropDownLine className='flex text-4xl '/></>)}
+                    </button>
                 </div>
+   
+                {search ? (
+                    <>
                 <div className="flex flex-wrap -mx-12 mb-6">
                     <div className="w-full md:w-1/2 px-3 mb-6 md:mb-0">
                         <label
@@ -200,16 +211,19 @@ const SearchInterface = () => {
                         <label className="block uppercase tracking-wide text-white text-xs font-bold mb-2">.</label>
                         <button 
                         className="appearance-none 
-                        block w-full bg-gray-600 text-white border 
+                        block w-full bg-gray-700 text-white border 
                         border-gray-300
                         hover:bg-blue-900
                         hover:font-bold
-                        rounded py-3 px-4 mb-3"
+                        rounded-full py-3 px-4 mb-3"
                         onClick={() => sendOtp()}>
                             Send OTP
                         </button>
                     </div>
                 </div>
+                </>
+                
+                ) : null}
             </div>
         </div>
     )
