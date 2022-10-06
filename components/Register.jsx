@@ -50,11 +50,12 @@ const Register= () => {
 
     if (open) {
     return (
-        <div className="flex h-[90%] bg-white w-full  items-center justify-center">
+        
+        <div className="font-Montserrat flex h-[90%] w-full  overflow-y-scroll items-center justify-center">
             <div className="w-full max-w-lg">
             <div className="flex flex-wrap -mx-44 mb-2">
                     <div className="w-full  px-3 mb-2 md:mb-0">
-                        <label className="block text-gray-700 text-2xl font-bold mb-4" >
+                        <label className="block text-white text-2xl font-bold mb-4" >
                             Register for Arbitration / Mediation:</label>
                     </div>
                 </div>
@@ -62,14 +63,14 @@ const Register= () => {
                 <div className="flex flex-wrap -mx-44 mb-2">
                     <div className="w-full md:w-1/3 px-3 mb-2 md:mb-0">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                         >
                             Case ID
                         </label>
                         <input
                             className="appearance-none 
                             block w-full bg-gray-200 
-                            text-gray-700 border border-gray-300 
+                            text-gray-200 border border-gray-300 
                             rounded py-3 px-4 mb-3 leading-tight 
                             focus:outline-none focus:bg-white 
                             focus:border-gray-500"
@@ -79,7 +80,7 @@ const Register= () => {
                     </div>
                     <div className="w-full md:w-1/3 px-3 mb-2 md:mb-0">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                             htmlFor="grid-state"
                         >
                             State
@@ -109,7 +110,7 @@ const Register= () => {
                     </div>
                     <div className="w-full md:w-1/3 px-3 mb-2 md:mb-0">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                             htmlFor="grid-state"
                         >
                             Case Type
@@ -139,14 +140,14 @@ const Register= () => {
                 </div>
                 <div className="flex flex-wrap -mx-44 mb-2">
                     <div className="w-full  px-3 mb-2 md:mb-0">
-                        <label className="block text-gray-700 text-m font-bold mb-2" >
+                        <label className="block text-gray-200 text-m font-bold mb-2" >
                             Arbitrator Details:</label>
                     </div>
                 </div>
                 <div className="flex flex-wrap -mx-44 mb-2">
                     <div className="w-full md:w-1/3 px-3 mb-2 md:mb-0">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                         >
                             First Name
                         </label>
@@ -160,7 +161,7 @@ const Register= () => {
                     </div>
                     <div className="w-full md:w-1/3 px-3">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                             htmlFor="grid-last-name"
                         >
                             Last Name
@@ -176,7 +177,7 @@ const Register= () => {
                     </div>
                     <div className="w-full md:w-1/3 px-3">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                             htmlFor="grid-last-name"
                         >
                             Phone Number
@@ -195,7 +196,7 @@ const Register= () => {
                 <div className="flex flex-wrap -mx-44 mb-2">
                     <div className="w-full md:w-1/3 px-3 mb-2 md:mb-0">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                         >
                             E-Mail
                         </label>
@@ -209,7 +210,7 @@ const Register= () => {
                     </div>
                     <div className="w-full md:w-1/3 px-3">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                             htmlFor="grid-last-name"
                         >
                             Password
@@ -226,7 +227,7 @@ const Register= () => {
                     </div>
                     <div className="w-full md:w-1/3 px-2">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                             htmlFor="grid-last-name"
                         >
                             Confirm Password
@@ -244,14 +245,14 @@ const Register= () => {
                 </div>
                 <div className="flex flex-wrap -mx-44 mb-2">
                     <div className="w-full  px-3 mb-2 md:mb-0">
-                        <label className="block text-gray-700 text-m font-bold mb-2" >
+                        <label className="block text-gray-200 text-m font-bold mb-2" >
                             Party 1 Details:</label>
                     </div>
                 </div>
                 <div className="flex flex-wrap -mx-44 mb-2">
                     <div className="w-full md:w-1/3 px-3 mb-2 md:mb-0">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                         >
                             First Name
                         </label>
@@ -265,7 +266,7 @@ const Register= () => {
                     </div>
                     <div className="w-full md:w-1/3 px-3">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                             htmlFor="grid-last-name"
                         >
                             Last Name
@@ -281,7 +282,7 @@ const Register= () => {
                     </div>
                     <div className="w-full md:w-1/3 px-2">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                             htmlFor="grid-last-name"
                         >
                             Phone Number
@@ -298,14 +299,14 @@ const Register= () => {
                 </div>
                 <div className="flex flex-wrap -mx-44 mb-2">
                     <div className="w-full  px-3 mb-2 md:mb-0">
-                        <label className="block text-gray-700 text-m font-bold mb-2" >
+                        <label className="block text-gray-200 text-m font-bold mb-2" >
                             Party 2 Details:</label>
                     </div>
                 </div>
                 <div className="flex flex-wrap -mx-44 mb-2">
                     <div className="w-full md:w-1/3 px-3 mb-2 md:mb-0">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                         >
                             First Name
                         </label>
@@ -319,7 +320,7 @@ const Register= () => {
                     </div>
                     <div className="w-full md:w-1/3 px-3">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                             htmlFor="grid-last-name"
                         >
                             Last Name
@@ -335,7 +336,7 @@ const Register= () => {
                     </div>
                     <div className="w-full md:w-1/3 px-2">
                         <label
-                            className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                            className="block uppercase tracking-wide text-gray-200 text-xs font-bold mb-2"
                             htmlFor="grid-last-name"
                         >
                             Phone Number
@@ -355,8 +356,8 @@ const Register= () => {
                         onClick={()=>{window.alert("Registration Successful! \nPlease Login from Admin for File Upload")
                         window.location = "/"}}
                         className="appearance-none 
-                        block w-full  bg-gray-600 text-white border 
-                        border-gray-300
+                        block w-full  bg-gray-800 bg-opacity-90 text-white
+                        border-gray-600
                         hover:bg-blue-900
                         hover:font-bold
                         rounded py-3 px-5  mt-3 mb-3">
@@ -398,11 +399,11 @@ const Register= () => {
             <div
             id="defaultModal"
             tabIndex={-1}
-            className="flex h-[88%] items-center justify-center"
+            className="flex h-[88%] font-Montserrat items-center justify-center"
           >
             <div className="relative p-4 w-full max-w-2xl h-full md:h-auto">
               {/* Modal content */}
-              <div className="relative rounded-lg shadow bg-gray-800">
+              <div className="relative rounded-lg shadow bg-gray-800 bg-opacity-90">
                 {/* Modal header */}
                 <div className="flex justify-between items-start p-4 rounded-t border-b dark:border-gray-600">
                   <h3 className="text-xl px-2 font-semibold text-gray-900 dark:text-white">

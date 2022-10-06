@@ -7,14 +7,15 @@ const Navbar = () => {
   
     return (
         <>
-  <nav className="bg-gray-900">
-    <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl px- md:px-6 py-4">
+  <nav className="bg-gray-900 bg-opacity-80">
+    <div className="flex font-Montserrat flex-wrap justify-between items-center mx-auto max-w-screen-3xl px- md:px-6 py-4">
         <button 
         className="flex items-center"
         onClick ={()=>{
           window.location='/'}}>
         <span className="self-center text-xl font-bold 
-        hover:font-bold
+        hover:font-black
+        font-Montserrat
         hover:text-blue-800
         whitespace-nowrap dark:text-white">
           E-Mediate
@@ -37,8 +38,8 @@ const Navbar = () => {
       </div>
     </div>
   </nav>
-  <nav className="bg-gray-700">
-    <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl px-4 py-1 md:px-6">
+  <nav className="bg-gray-700 bg-opacity-60">
+    <div className="flex flex-wrap  justify-between items-center mx-auto max-w-screen-3xl px-4 py-1 md:px-6">
         <p className="text-center text-slate-300 text-sm  py-2">
             Access your Arbitration and Mediation Documents
         </p>
