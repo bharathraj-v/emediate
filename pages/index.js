@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Navbar from '../components/Navbar'
 import SearchInterface from '../components/SearchInterface'
 import Footer from '../components/Footer'
+import Search from '../components/Search'
 
 export default function Home() {
   return (
@@ -16,7 +17,7 @@ export default function Home() {
         />
       </Head>
       <Navbar />
-      <SearchInterface />
+      <Search />
       <Footer />
 
       </div>

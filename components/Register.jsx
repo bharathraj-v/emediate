@@ -403,7 +403,7 @@ const Register= () => {
           >
             <div className="relative p-4 w-full max-w-2xl h-full md:h-auto">
               {/* Modal content */}
-              <div className="relative rounded-lg shadow bg-gray-800 bg-opacity-90">
+              <div className="relative rounded-lg shadow bg-gray-800 bg-opacity-80">
                 {/* Modal header */}
                 <div className="flex justify-between items-start p-4 rounded-t border-b dark:border-gray-600">
                   <h3 className="text-xl px-2 font-semibold text-gray-900 dark:text-white">

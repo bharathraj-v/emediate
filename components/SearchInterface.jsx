@@ -91,11 +91,11 @@ const SearchInterface = () => {
             <div className="flex flex-wrap -mx-12 mb-6">
                     <button
                     onClick={() => setSearch(!search)} 
-                    className="flex ml-3 mr-3 bg-gray-800 bg-opacity-75 rounded-full text-white justify-between items-center w-full  px-14 mb-5 md:mb-0
+                    className="flex ml-3 mr-3 shadow-2xl bg-gray-800 bg-opacity-75 rounded-full text-white justify-between items-center w-full  px-14 mb-5 md:mb-0
                     hover:bg-blue-900 ">
-                        <label className="block py-3  text-xl font-bold " >
+                        <label className="py-3 text-xl font-bold " >
                             Search your Case Documents</label>
-                        {(!search)? (<><FaSearch className='flex'/></>):(<><RiArrowDropDownLine className='flex text-4xl '/></>)}
+                        {(!search)? (<><FaSearch className='flex animate-pulse'/></>):(<><RiArrowDropDownLine className='flex text-4xl '/></>)}
                     </button>
                 </div>
    
@@ -117,7 +117,7 @@ const SearchInterface = () => {
                             onChange={handlefirstNameChange}
                             type="text"
                         />
-                        <p className="text-blue-200 text-xs">(Enter according to your Aadhar ID details)</p>
+                        <p className="text-gray-800 text-xs">(Enter according to your Aadhar ID details)</p>
                     </div>
                     <div className="w-full md:w-1/2 px-3">
                         <label

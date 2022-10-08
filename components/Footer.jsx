@@ -15,7 +15,7 @@ const Footer = () => (
             <Link href="http://www.github.com/bharathraj-v">Follow on Github</Link>
         </li>
         <li className="hover:underline">
-            <Link href="https://github.com/bharathraj-v/emediateloc">Github Repo</Link>
+            <Link href="https://github.com/bharathraj-v/emediate">Github Repo</Link>
         </li>
     </ul>
 </footer>
