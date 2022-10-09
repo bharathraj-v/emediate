@@ -7,45 +7,45 @@ const DisplayCases = ({displayItems}) => {
     const arr = displayItems.slice(0, 7);
     if (arr.length > 0) {
     return(
-        <div class="w-[65%] overflow-x-auto relative shadow-md sm:rounded-2xl">
-        <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
-            <thead class="text-xs dark:bg-opacity-80 text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+        <div className="w-[65%] overflow-x-auto relative shadow-md sm:rounded-2xl">
+        <table className="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+            <thead className="text-xs dark:bg-opacity-80 text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                 <tr>
-                    <th scope="col" class="py-3 px-6">
+                    <th scope="col" className="py-3 px-6">
                         Case ID
                     </th>
-                    <th scope="col" class="py-3 px-6">
+                    <th scope="col" className="py-3 px-6">
                         Arbitrator
                     </th>
-                    <th scope="col" class="py-3 px-6">
+                    <th scope="col" className="py-3 px-6">
                         Party-1
                     </th>
-                    <th scope="col" class="py-3 px-6">
+                    <th scope="col" className="py-3 px-6">
                         Party-2
                     </th>
-                    <th scope="col" class="py-3 px-6">
-                        <span class="sr-only">Show</span>
+                    <th scope="col" className="py-3 px-6">
+                        <span className="sr-only">Show</span>
                     </th>
                 </tr>
             </thead>
             {
             arr.map((item) => (
-            <tbody>
-                <tr class="bg-white border-b  dark:bg-opacity-85 dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600">
-                    <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+            <tbody key={item.caseID}>
+                <tr key={item.caseID+"tr"} className="bg-white border-b  dark:bg-opacity-85 dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600">
+                    <th key={item.caseID+"id"} scope="row" className="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
                         {item.caseID}
                     </th>
-                    <td class="py-4 px-6">
+                    <td key={item.caseID+"arbname"} className="py-4 px-6">
                         {item.arbitrator.firstName} {item.arbitrator.lastName}
                     </td>
-                    <td class="py-4 px-6">
+                    <td key={item.caseID+"p1name"} className="py-4 px-6">
                         {item.party1.firstName} {item.party1.lastName}
                     </td>
-                    <td class="py-4 px-6">
+                    <td key={item.caseID+"p2name"} className="py-4 px-6">
                         {item.party2.firstName} {item.party2.lastName}
                     </td>
-                    <td class="py-4 px-6 text-right">
-                        <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Show</a>
+                    <td key={item.caseID+"docs"} className="py-4 px-6 text-right">
+                        <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Show</a>
                     </td>
                 </tr>
             </tbody>
