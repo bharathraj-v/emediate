@@ -1,12 +1,105 @@
 import React, { useState } from "react";
 import Link from "next/link";
+import cases from "../data.json";
+
+
+const DisplayCases = ({displayItems}) => {
+    const arr = displayItems.slice(0, 7);
+    if (arr.length > 0) {
+    return(
+        <div class="w-[65%] overflow-x-auto relative shadow-md sm:rounded-2xl">
+        <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+            <thead class="text-xs dark:bg-opacity-80 text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+                <tr>
+                    <th scope="col" class="py-3 px-6">
+                        Case ID
+                    </th>
+                    <th scope="col" class="py-3 px-6">
+                        Arbitrator
+                    </th>
+                    <th scope="col" class="py-3 px-6">
+                        Party-1
+                    </th>
+                    <th scope="col" class="py-3 px-6">
+                        Party-2
+                    </th>
+                    <th scope="col" class="py-3 px-6">
+                        <span class="sr-only">Show</span>
+                    </th>
+                </tr>
+            </thead>
+            {
+            arr.map((item) => (
+            <tbody>
+                <tr class="bg-white border-b  dark:bg-opacity-85 dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600">
+                    <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                        {item.caseID}
+                    </th>
+                    <td class="py-4 px-6">
+                        {item.arbitrator.firstName} {item.arbitrator.lastName}
+                    </td>
+                    <td class="py-4 px-6">
+                        {item.party1.firstName} {item.party1.lastName}
+                    </td>
+                    <td class="py-4 px-6">
+                        {item.party2.firstName} {item.party2.lastName}
+                    </td>
+                    <td class="py-4 px-6 text-right">
+                        <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Show</a>
+                    </td>
+                </tr>
+            </tbody>
+            ))}
+        </table>
+    </div>
+    )
+    }
+}
+
 
 const Search = () => {
-    const [optionSelected, setOptionSelected] = useState("Case ID");
-    const [options, setOptions] = useState(["Case ID", "Name", "Phone No."]);
+    const [optionSelected, setOptionSelected] = useState("Name");
+    const [options, setOptions] = useState(["Name", "Case ID"]);
     const [showDropdown, setShowdropdown] = useState(false);
+    const [search, setSearch] = useState("");
+    const [displayItems, setDisplayItems] = useState("");
+
+    const submitSearch = (value) => {
+        setShowdropdown(false);
+        
+        if (value !== "") {
+            if (optionSelected === "Case ID") {
+            setDisplayItems(
+                cases.filter((caseData) => caseData.caseID.toString().startsWith(value))
+                );
+        }
+            else if (optionSelected == "Name") {
+                setDisplayItems(
+                    cases.filter((caseData) => 
+                    caseData.arbitrator.firstName.toLowerCase().startsWith(value.toLowerCase()) ||
+                    caseData.arbitrator.lastName.toLowerCase().startsWith(value.toLowerCase()) ||
+                    caseData.party1.firstName.toLowerCase().startsWith(value.toLowerCase()) ||
+                    caseData.party1.lastName.toLowerCase().startsWith(value.toLowerCase()) ||
+                    caseData.party2.firstName.toLowerCase().startsWith(value.toLowerCase()) ||
+                    caseData.party2.lastName.toLowerCase().startsWith(value.toLowerCase())
+                ))
+            }
+        }
+        else {
+            setDisplayItems("");
+        }
+    }
+
+    const handleSearch = ({target}) => {
+        var value = target.value;
+        setSearch(value);
+        console.log(value)
+        submitSearch(value);
+    };
+
     return (
-        <div className="flex h-[88%] mt-44 justify-center">
+        <div className="h-[88%]">
+        <div className="flex  mt-52 justify-center">
 
             <div className="w-[65%] space-y-2">
                 <div className="flex col">
@@ -33,13 +126,22 @@ const Search = () => {
                 </button>
                 <div className="relative w-full">
   <input
-    type="search"
+    onChange={(e)=>{
+        handleSearch(e)
+    }}
+    value={search}
     className="block p-3 w-full z-20 text-sm bg-gray-800 bg-opacity-80 text-white  rounded-r-full focus:border-gray-900 focus:outline-none focus:ring-0"
     placeholder={"Search using " + optionSelected}
     required=""
+    onKeyPress={(e) => {
+        if (e.key === "Enter") {
+            submitSearch();
+        }
+     }}
   />
   <button
-    type="submit" 
+    type="submit"
+    onClick = {()=>submitSearch()}
     className="absolute top-0 right-0 p-3 mr-2 text-sm font-medium text-white rounded-r-full focus:ring-0 focus:outline-none focus:ring-blue-300"
   >
     <svg
@@ -74,27 +176,22 @@ const Search = () => {
                                 className="block w-36 py-2 px-4 text-start rounded-2xl hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                                 onClick={() => {
                                     setOptionSelected(options[1])
-                                    setOptions([options[1], options[0], options[2]])
+                                    setOptions([options[1], options[0]])
                                     setShowdropdown(false)
                                 }}
                             >
                                 {options[1]}
-                                </button>
-                                <button
-                                className="block w-36 py-2 px-4 text-start rounded-2xl hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                                onClick={() => {
-                                    setOptionSelected(options[2])
-                                    setOptions([options[2], options[1], options[0]])
-                                    setShowdropdown(false)
-                                }}
-                            >
-                                {options[2]}
                                 </button>
                     </ul>
                 </div>
                 )}
             </div>
         </div>
+        <div className="flex justify-center items-center mt-10">
+        <DisplayCases displayItems={displayItems}/>
+        </div>
+    </div>
+        
     );
 }
 

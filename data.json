@@ -1,0 +1,5752 @@
+[
+    {
+        "arbitrator": {
+            "firstName": "Krishna",
+            "lastName": "Prabhu",
+            "phoneNumber": 7779974365,
+            "email": "krishnaprabhu@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sinthu",
+            "lastName": "priyen",
+            "phoneNumber": 8097612481
+        },
+        "party2": {
+            "firstName": "Zulgeelal",
+            "lastName": "Wal-Ikram",
+            "phoneNumber": 9991672137
+        },
+        "caseID": 9735968,
+        "state": "West Bengal",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mriganka",
+            "lastName": "Sekhar",
+            "phoneNumber": 9226382659,
+            "email": "mrigankasekhar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sri",
+            "lastName": "krishna",
+            "phoneNumber": 9424901960
+        },
+        "party2": {
+            "firstName": "Vijaya",
+            "lastName": "bharati",
+            "phoneNumber": 6532563876
+        },
+        "caseID": 1077642,
+        "state": "Chhattisgarh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Navya",
+            "lastName": "Durga",
+            "phoneNumber": 7696141808,
+            "email": "navyadurga@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Vinai",
+            "lastName": "kethan",
+            "phoneNumber": 7748977431
+        },
+        "party2": {
+            "firstName": "Kapil",
+            "lastName": "Dev",
+            "phoneNumber": 6139945760
+        },
+        "caseID": 7235761,
+        "state": "Delhi",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Gul",
+            "lastName": "Mohd.",
+            "phoneNumber": 7497347859,
+            "email": "gulmohd.@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Aditya",
+            "lastName": "narayan",
+            "phoneNumber": 6077122234
+        },
+        "party2": {
+            "firstName": "Rohith",
+            "lastName": "vishnu",
+            "phoneNumber": 6576955594
+        },
+        "caseID": 1400744,
+        "state": "Punjab",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Anish",
+            "lastName": "kumar",
+            "phoneNumber": 8064564445,
+            "email": "anishkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Padma",
+            "lastName": "shalini",
+            "phoneNumber": 6060776535
+        },
+        "party2": {
+            "firstName": "Hari",
+            "lastName": "krishnana",
+            "phoneNumber": 6272220923
+        },
+        "caseID": 8890527,
+        "state": "Tripura",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Madhu",
+            "lastName": "Smitha",
+            "phoneNumber": 8357307989,
+            "email": "madhusmitha@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ram",
+            "lastName": "Baksh",
+            "phoneNumber": 8337524500
+        },
+        "party2": {
+            "firstName": "Sita",
+            "lastName": "Ram",
+            "phoneNumber": 6024603394
+        },
+        "caseID": 2369755,
+        "state": "Odisha",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Pujya",
+            "lastName": "Srita",
+            "phoneNumber": 9028789641,
+            "email": "pujyasrita@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Chandra",
+            "lastName": "Bhan",
+            "phoneNumber": 8845755354
+        },
+        "party2": {
+            "firstName": "Rajesh",
+            "lastName": "kumar",
+            "phoneNumber": 9853654404
+        },
+        "caseID": 3014354,
+        "state": "Gujarat",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Visnu",
+            "lastName": "varthan",
+            "phoneNumber": 7351756392,
+            "email": "visnuvarthan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Jai",
+            "lastName": "akash",
+            "phoneNumber": 6920350318
+        },
+        "party2": {
+            "firstName": "Radhe",
+            "lastName": "Shyam",
+            "phoneNumber": 9499856062
+        },
+        "caseID": 3744530,
+        "state": "Goa",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Bala",
+            "lastName": "Murugan",
+            "phoneNumber": 9042513794,
+            "email": "balamurugan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Nithish",
+            "lastName": "kanna",
+            "phoneNumber": 7375911027
+        },
+        "party2": {
+            "firstName": "Dhanyaa",
+            "lastName": "shri",
+            "phoneNumber": 8942455131
+        },
+        "caseID": 7886289,
+        "state": "Arunachal Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Priyasha",
+            "lastName": "lakshmi",
+            "phoneNumber": 6638461075,
+            "email": "priyashalakshmi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Kamala",
+            "lastName": "sri",
+            "phoneNumber": 6878693329
+        },
+        "party2": {
+            "firstName": "Chithra",
+            "lastName": "priya",
+            "phoneNumber": 8005427035
+        },
+        "caseID": 6127753,
+        "state": "West Bengal",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ullash",
+            "lastName": "raj",
+            "phoneNumber": 8508398156,
+            "email": "ullashraj@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Manvitha",
+            "lastName": "Sri",
+            "phoneNumber": 7961638041
+        },
+        "party2": {
+            "firstName": "Shiva",
+            "lastName": "Kumaran",
+            "phoneNumber": 7808586839
+        },
+        "caseID": 9634524,
+        "state": "Himachal Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Guru",
+            "lastName": "Gugan",
+            "phoneNumber": 9851405946,
+            "email": "gurugugan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Malar",
+            "lastName": "kavetha",
+            "phoneNumber": 8397421735
+        },
+        "party2": {
+            "firstName": "Arun",
+            "lastName": "kumar",
+            "phoneNumber": 6131786459
+        },
+        "caseID": 6747923,
+        "state": "Nagaland",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Yogi",
+            "lastName": "Sree",
+            "phoneNumber": 9459957449,
+            "email": "yogisree@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Abdus",
+            "lastName": "Sameei",
+            "phoneNumber": 7865218661
+        },
+        "party2": {
+            "firstName": "Ananda",
+            "lastName": "ganesh",
+            "phoneNumber": 7769930993
+        },
+        "caseID": 8111930,
+        "state": "Andhra Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Gayathri",
+            "lastName": "devi",
+            "phoneNumber": 6611303918,
+            "email": "gayathridevi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sai",
+            "lastName": "Pratap",
+            "phoneNumber": 7703994476
+        },
+        "party2": {
+            "firstName": "Harish",
+            "lastName": "kumar",
+            "phoneNumber": 7366595795
+        },
+        "caseID": 1472154,
+        "state": "Tripura",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Lakshmi",
+            "lastName": "Narayan",
+            "phoneNumber": 7998373753,
+            "email": "lakshminarayan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Vaishnava",
+            "lastName": "priya",
+            "phoneNumber": 7846238512
+        },
+        "party2": {
+            "firstName": "Vara",
+            "lastName": "Lakshmi",
+            "phoneNumber": 7089003111
+        },
+        "caseID": 1803874,
+        "state": "Lakshadweep",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Danavendra",
+            "lastName": "Vinashaka",
+            "phoneNumber": 7038080069,
+            "email": "danavendravinashaka@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Mani",
+            "lastName": "Shankar",
+            "phoneNumber": 6243073259
+        },
+        "party2": {
+            "firstName": "Amirtha",
+            "lastName": "varshini",
+            "phoneNumber": 8351805301
+        },
+        "caseID": 8705675,
+        "state": "Dadra and Nagar Haveli",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Thulasi",
+            "lastName": "ram",
+            "phoneNumber": 6077759084,
+            "email": "thulasiram@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Harsha",
+            "lastName": "varthan",
+            "phoneNumber": 7147192493
+        },
+        "party2": {
+            "firstName": "Vandiya",
+            "lastName": "devan",
+            "phoneNumber": 7204965650
+        },
+        "caseID": 9025758,
+        "state": "Punjab",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Santhosh",
+            "lastName": "kumar",
+            "phoneNumber": 7108571959,
+            "email": "santhoshkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Jaya",
+            "lastName": "Sagan",
+            "phoneNumber": 6860727453
+        },
+        "party2": {
+            "firstName": "Jugal",
+            "lastName": "Kishor",
+            "phoneNumber": 9061552784
+        },
+        "caseID": 1394999,
+        "state": "Andhra Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sree",
+            "lastName": "Sabari",
+            "phoneNumber": 8774262097,
+            "email": "sreesabari@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ashwin",
+            "lastName": "sundar",
+            "phoneNumber": 9301950724
+        },
+        "party2": {
+            "firstName": "Pon",
+            "lastName": "kamalesh",
+            "phoneNumber": 6973274480
+        },
+        "caseID": 8108245,
+        "state": "Rajasthan",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Dhiva",
+            "lastName": "lakshmi",
+            "phoneNumber": 7816069059,
+            "email": "dhivalakshmi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sathis",
+            "lastName": "kumar",
+            "phoneNumber": 6759960642
+        },
+        "party2": {
+            "firstName": "Hari",
+            "lastName": "Kishan",
+            "phoneNumber": 9044167500
+        },
+        "caseID": 3909544,
+        "state": "Puducherry",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Arul",
+            "lastName": "nayagi",
+            "phoneNumber": 6947580312,
+            "email": "arulnayagi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Rohit",
+            "lastName": "Rudra",
+            "phoneNumber": 9159216154
+        },
+        "party2": {
+            "firstName": "Bilpa",
+            "lastName": "Shree",
+            "phoneNumber": 7340398549
+        },
+        "caseID": 2473130,
+        "state": "Chandigarh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ram",
+            "lastName": "Kumar",
+            "phoneNumber": 9506813765,
+            "email": "ramkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Hanantha",
+            "lastName": "sooriyan",
+            "phoneNumber": 8095585568
+        },
+        "party2": {
+            "firstName": "Bala",
+            "lastName": "Govind",
+            "phoneNumber": 8108557792
+        },
+        "caseID": 3733373,
+        "state": "Maharashtra",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ajesh",
+            "lastName": "kumar",
+            "phoneNumber": 8277451073,
+            "email": "ajeshkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Barath",
+            "lastName": "krishna",
+            "phoneNumber": 6028728882
+        },
+        "party2": {
+            "firstName": "Mathi",
+            "lastName": "vadhana",
+            "phoneNumber": 9037904462
+        },
+        "caseID": 8714755,
+        "state": "Haryana",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Vaan",
+            "lastName": "nila",
+            "phoneNumber": 7064366459,
+            "email": "vaannila@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Abdus",
+            "lastName": "Sattar",
+            "phoneNumber": 6972556479
+        },
+        "party2": {
+            "firstName": "Jaiwin",
+            "lastName": "sachin",
+            "phoneNumber": 9196501144
+        },
+        "caseID": 6108057,
+        "state": "Odisha",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Tanu",
+            "lastName": "Prava",
+            "phoneNumber": 6486686430,
+            "email": "tanuprava@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ananda",
+            "lastName": "ragavan",
+            "phoneNumber": 6683604311
+        },
+        "party2": {
+            "firstName": "Rama",
+            "lastName": "Devi",
+            "phoneNumber": 7111364274
+        },
+        "caseID": 2835877,
+        "state": "Nagaland",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Punyacharitraya",
+            "lastName": "Keertana",
+            "phoneNumber": 7829428571,
+            "email": "punyacharitrayakeertana@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Parasmai",
+            "lastName": "Jyotish",
+            "phoneNumber": 6487568232
+        },
+        "party2": {
+            "firstName": "Dyu",
+            "lastName": "Mani",
+            "phoneNumber": 8544832430
+        },
+        "caseID": 1889691,
+        "state": "Lakshadweep",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Vijaya",
+            "lastName": "baskar",
+            "phoneNumber": 6228031147,
+            "email": "vijayabaskar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Shri",
+            "lastName": "Hari",
+            "phoneNumber": 9615258345
+        },
+        "party2": {
+            "firstName": "Manoj",
+            "lastName": "kumar",
+            "phoneNumber": 9798863685
+        },
+        "caseID": 5017755,
+        "state": "Andhra Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Selva",
+            "lastName": "kumar",
+            "phoneNumber": 7869961094,
+            "email": "selvakumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Jamadagnya",
+            "lastName": "Mahadarpa",
+            "phoneNumber": 7696798317
+        },
+        "party2": {
+            "firstName": "Pann",
+            "lastName": "Gesh",
+            "phoneNumber": 8158934430
+        },
+        "caseID": 1148715,
+        "state": "Dadra and Nagar Haveli",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Bhuvana",
+            "lastName": "sri",
+            "phoneNumber": 8756849534,
+            "email": "bhuvanasri@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Mohd.",
+            "lastName": "Akbar",
+            "phoneNumber": 6919343594
+        },
+        "party2": {
+            "firstName": "Charu",
+            "lastName": "nivatha",
+            "phoneNumber": 7341919292
+        },
+        "caseID": 3013348,
+        "state": "Tamil Nadu",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sanjay",
+            "lastName": "prasad",
+            "phoneNumber": 7218964068,
+            "email": "sanjayprasad@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Jothi",
+            "lastName": "priya",
+            "phoneNumber": 9722055458
+        },
+        "party2": {
+            "firstName": "Yashodagarba",
+            "lastName": "Sambhoota",
+            "phoneNumber": 6973745624
+        },
+        "caseID": 6207014,
+        "state": "Delhi",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Laxmi",
+            "lastName": "Priya",
+            "phoneNumber": 7982663734,
+            "email": "laxmipriya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sai",
+            "lastName": "Shivudu",
+            "phoneNumber": 7010184909
+        },
+        "party2": {
+            "firstName": "Chandra",
+            "lastName": "Sai",
+            "phoneNumber": 9216055243
+        },
+        "caseID": 7943678,
+        "state": "Tamil Nadu",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ravi",
+            "lastName": "Chakra",
+            "phoneNumber": 6174452147,
+            "email": "ravichakra@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Thileepan",
+            "lastName": "raj",
+            "phoneNumber": 6611124526
+        },
+        "party2": {
+            "firstName": "Shree",
+            "lastName": "ram",
+            "phoneNumber": 7329119811
+        },
+        "caseID": 3483914,
+        "state": "Chhattisgarh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Harnesh",
+            "lastName": "kumar",
+            "phoneNumber": 9468915886,
+            "email": "harneshkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Kate",
+            "lastName": "Winslet",
+            "phoneNumber": 7749920145
+        },
+        "party2": {
+            "firstName": "Abinaya",
+            "lastName": "sundari",
+            "phoneNumber": 9084306147
+        },
+        "caseID": 5799925,
+        "state": "Uttarakhand",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Arumin",
+            "lastName": "Kadalan",
+            "phoneNumber": 8611591478,
+            "email": "aruminkadalan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Maveen",
+            "lastName": "rai",
+            "phoneNumber": 7477053489
+        },
+        "party2": {
+            "firstName": "Keerthi",
+            "lastName": "vassan",
+            "phoneNumber": 6233656956
+        },
+        "caseID": 1966343,
+        "state": "Odisha",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abdus",
+            "lastName": "Subbooh",
+            "phoneNumber": 9277168415,
+            "email": "abdussubbooh@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Neeraj",
+            "lastName": "Nayan",
+            "phoneNumber": 9872789194
+        },
+        "party2": {
+            "firstName": "Vaikunth",
+            "lastName": "Nath",
+            "phoneNumber": 7931549487
+        },
+        "caseID": 1740775,
+        "state": "Delhi",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sudan",
+            "lastName": "raj",
+            "phoneNumber": 7323200236,
+            "email": "sudanraj@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Parijatapa",
+            "lastName": "Harakaya",
+            "phoneNumber": 8958116535
+        },
+        "party2": {
+            "firstName": "Kavi",
+            "lastName": "varman",
+            "phoneNumber": 6760544585
+        },
+        "caseID": 8610570,
+        "state": "Bihar",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Jagat",
+            "lastName": "Prabhu",
+            "phoneNumber": 8335306567,
+            "email": "jagatprabhu@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Swami",
+            "lastName": "Lakshman",
+            "phoneNumber": 6176040325
+        },
+        "party2": {
+            "firstName": "Prithiyanga",
+            "lastName": "devi",
+            "phoneNumber": 7199639180
+        },
+        "caseID": 9661547,
+        "state": "Arunachal Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ram",
+            "lastName": "Sewak",
+            "phoneNumber": 8693341516,
+            "email": "ramsewak@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Dhinushshini",
+            "lastName": "Devi",
+            "phoneNumber": 6398522256
+        },
+        "party2": {
+            "firstName": "Kuga",
+            "lastName": "Priyan",
+            "phoneNumber": 9586554245
+        },
+        "caseID": 2255200,
+        "state": "Mizoram",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Guru",
+            "lastName": "prasath",
+            "phoneNumber": 6273895624,
+            "email": "guruprasath@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sai",
+            "lastName": "Chandra",
+            "phoneNumber": 8667298768
+        },
+        "party2": {
+            "firstName": "Mithul",
+            "lastName": "ram",
+            "phoneNumber": 9048461159
+        },
+        "caseID": 2968921,
+        "state": "Delhi",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Gokul",
+            "lastName": "gnanam",
+            "phoneNumber": 7283429741,
+            "email": "gokulgnanam@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Saayi",
+            "lastName": "ruban",
+            "phoneNumber": 9718373134
+        },
+        "party2": {
+            "firstName": "Gobi",
+            "lastName": "krishnan",
+            "phoneNumber": 6727748305
+        },
+        "caseID": 9708216,
+        "state": "Goa",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Shakthi",
+            "lastName": "prasath",
+            "phoneNumber": 9128278803,
+            "email": "shakthiprasath@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sri",
+            "lastName": "brunthan",
+            "phoneNumber": 6264634535
+        },
+        "party2": {
+            "firstName": "Ved",
+            "lastName": "Vyas",
+            "phoneNumber": 6077777646
+        },
+        "caseID": 6244162,
+        "state": "Dadra and Nagar Haveli",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Rahul",
+            "lastName": "Ranjan",
+            "phoneNumber": 8927223902,
+            "email": "rahulranjan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Kalai",
+            "lastName": "krishnan",
+            "phoneNumber": 7764254713
+        },
+        "party2": {
+            "firstName": "Kuna",
+            "lastName": "varshini",
+            "phoneNumber": 7757316289
+        },
+        "caseID": 1722667,
+        "state": "Tamil Nadu",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sai",
+            "lastName": "Sarvesh",
+            "phoneNumber": 9524916835,
+            "email": "saisarvesh@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sai",
+            "lastName": "Charan",
+            "phoneNumber": 9030105071
+        },
+        "party2": {
+            "firstName": "Hemah",
+            "lastName": "malini",
+            "phoneNumber": 8265176730
+        },
+        "caseID": 7636756,
+        "state": "Assam",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sai",
+            "lastName": "Dhanya",
+            "phoneNumber": 7206516633,
+            "email": "saidhanya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Abdus",
+            "lastName": "Salaam",
+            "phoneNumber": 7453291090
+        },
+        "party2": {
+            "firstName": "Madu",
+            "lastName": "sri",
+            "phoneNumber": 6581115529
+        },
+        "caseID": 1590171,
+        "state": "Madhya Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Gopi",
+            "lastName": "Nath",
+            "phoneNumber": 6283165349,
+            "email": "gopinath@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Nisha",
+            "lastName": "sree",
+            "phoneNumber": 8754906228
+        },
+        "party2": {
+            "firstName": "Aadhitya",
+            "lastName": "raj",
+            "phoneNumber": 7257644884
+        },
+        "caseID": 6816825,
+        "state": "Delhi",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abdus",
+            "lastName": "Shakur",
+            "phoneNumber": 7421244096,
+            "email": "abdusshakur@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Thurka",
+            "lastName": "thevi",
+            "phoneNumber": 8681851459
+        },
+        "party2": {
+            "firstName": "Diviya",
+            "lastName": "lakshmi",
+            "phoneNumber": 6879620544
+        },
+        "caseID": 7658850,
+        "state": "Nagaland",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Shashi",
+            "lastName": "kumar",
+            "phoneNumber": 9459526576,
+            "email": "shashikumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Dheerodhata",
+            "lastName": "Gunothara",
+            "phoneNumber": 7797413817
+        },
+        "party2": {
+            "firstName": "Abdul",
+            "lastName": "Satar",
+            "phoneNumber": 9184576822
+        },
+        "caseID": 1708392,
+        "state": "Uttar Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ram",
+            "lastName": "Chandra",
+            "phoneNumber": 8315061821,
+            "email": "ramchandra@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sathya",
+            "lastName": "Raj",
+            "phoneNumber": 6589881095
+        },
+        "party2": {
+            "firstName": "Neha",
+            "lastName": "Sree",
+            "phoneNumber": 9999813905
+        },
+        "caseID": 4914968,
+        "state": "Haryana",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Viveka",
+            "lastName": "rajan",
+            "phoneNumber": 6155734859,
+            "email": "vivekarajan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Atul",
+            "lastName": "Prasad",
+            "phoneNumber": 8472707686
+        },
+        "party2": {
+            "firstName": "Nilaa",
+            "lastName": "Muhan",
+            "phoneNumber": 9926825717
+        },
+        "caseID": 4561314,
+        "state": "Assam",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abdus",
+            "lastName": "Samad",
+            "phoneNumber": 7483639876,
+            "email": "abdussamad@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Tamizh",
+            "lastName": "azhagan",
+            "phoneNumber": 8110756093
+        },
+        "party2": {
+            "firstName": "Abdus",
+            "lastName": "Sabour",
+            "phoneNumber": 7239141231
+        },
+        "caseID": 3586015,
+        "state": "Maharashtra",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Umaesh",
+            "lastName": "kumar",
+            "phoneNumber": 6975180225,
+            "email": "umaeshkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sathish",
+            "lastName": "kumar",
+            "phoneNumber": 6740957498
+        },
+        "party2": {
+            "firstName": "Krishna",
+            "lastName": "Murari",
+            "phoneNumber": 7492767072
+        },
+        "caseID": 4880240,
+        "state": "Manipur",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mogana",
+            "lastName": "priyan",
+            "phoneNumber": 6885185217,
+            "email": "moganapriyan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Dwarka",
+            "lastName": "Nath",
+            "phoneNumber": 9948938901
+        },
+        "party2": {
+            "firstName": "Shanti",
+            "lastName": "Priya",
+            "phoneNumber": 7728328100
+        },
+        "caseID": 4815173,
+        "state": "Meghalaya",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Karuna",
+            "lastName": "Sagar",
+            "phoneNumber": 8151503610,
+            "email": "karunasagar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Isai",
+            "lastName": "vaenthan",
+            "phoneNumber": 9624429788
+        },
+        "party2": {
+            "firstName": "Veda",
+            "lastName": "Sree",
+            "phoneNumber": 9107147936
+        },
+        "caseID": 1461174,
+        "state": "Maharashtra",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Narain",
+            "lastName": "Das",
+            "phoneNumber": 6201985963,
+            "email": "naraindas@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Thulir",
+            "lastName": "nila",
+            "phoneNumber": 9421843272
+        },
+        "party2": {
+            "firstName": "Tamil",
+            "lastName": "iniyan",
+            "phoneNumber": 7944641798
+        },
+        "caseID": 4866453,
+        "state": "Nagaland",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Gnana",
+            "lastName": "Panditan",
+            "phoneNumber": 9648308152,
+            "email": "gnanapanditan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Uma",
+            "lastName": "sara",
+            "phoneNumber": 6206288446
+        },
+        "party2": {
+            "firstName": "Laxmi",
+            "lastName": "Kant",
+            "phoneNumber": 6991640711
+        },
+        "caseID": 3268063,
+        "state": "Tamil Nadu",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ram",
+            "lastName": "Niwas",
+            "phoneNumber": 9661155998,
+            "email": "ramniwas@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Elaiya",
+            "lastName": "bharati",
+            "phoneNumber": 6167108674
+        },
+        "party2": {
+            "firstName": "Pradeep",
+            "lastName": "kumar",
+            "phoneNumber": 8646768222
+        },
+        "caseID": 2750603,
+        "state": "Uttarakhand",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Gogila",
+            "lastName": "vani",
+            "phoneNumber": 9044293994,
+            "email": "gogilavani@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Nand",
+            "lastName": "Nandan",
+            "phoneNumber": 9684505999
+        },
+        "party2": {
+            "firstName": "Divya",
+            "lastName": "nisha",
+            "phoneNumber": 9895449206
+        },
+        "caseID": 6666425,
+        "state": "Uttarakhand",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Isai",
+            "lastName": "kannan",
+            "phoneNumber": 9050279510,
+            "email": "isaikannan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sur",
+            "lastName": "Pakaivan",
+            "phoneNumber": 8462506899
+        },
+        "party2": {
+            "firstName": "Divya",
+            "lastName": "Deep",
+            "phoneNumber": 6727614867
+        },
+        "caseID": 4234574,
+        "state": "Odisha",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ananda",
+            "lastName": "washan",
+            "phoneNumber": 9081900011,
+            "email": "anandawashan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Chitrakoot",
+            "lastName": "Samashraya",
+            "phoneNumber": 8148776569
+        },
+        "party2": {
+            "firstName": "Sai",
+            "lastName": "Vani",
+            "phoneNumber": 6171325909
+        },
+        "caseID": 8786442,
+        "state": "Meghalaya",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Thamizh",
+            "lastName": "nesan",
+            "phoneNumber": 9816668887,
+            "email": "thamizhnesan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Vedha",
+            "lastName": "varsini",
+            "phoneNumber": 7365947388
+        },
+        "party2": {
+            "firstName": "Then",
+            "lastName": "mugil",
+            "phoneNumber": 6316272626
+        },
+        "caseID": 2418314,
+        "state": "Punjab",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Lalit",
+            "lastName": "Kumar",
+            "phoneNumber": 7494389914,
+            "email": "lalitkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Navind",
+            "lastName": "raj",
+            "phoneNumber": 7089483530
+        },
+        "party2": {
+            "firstName": "Sri",
+            "lastName": "ram",
+            "phoneNumber": 7919010334
+        },
+        "caseID": 3790109,
+        "state": "Kerala",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Jai",
+            "lastName": "Darsh",
+            "phoneNumber": 6747288694,
+            "email": "jaidarsh@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Harish",
+            "lastName": "karthik",
+            "phoneNumber": 7756320141
+        },
+        "party2": {
+            "firstName": "Nag",
+            "lastName": "Raj",
+            "phoneNumber": 6154648183
+        },
+        "caseID": 7327858,
+        "state": "Madhya Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mohd.",
+            "lastName": "Maqbool",
+            "phoneNumber": 9918836415,
+            "email": "mohd.maqbool@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Mayon",
+            "lastName": "Marugan",
+            "phoneNumber": 9033847038
+        },
+        "party2": {
+            "firstName": "Hari",
+            "lastName": "Narayana",
+            "phoneNumber": 8694667137
+        },
+        "caseID": 2785693,
+        "state": "Himachal Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Anjani",
+            "lastName": "Devi",
+            "phoneNumber": 8102369494,
+            "email": "anjanidevi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Karna",
+            "lastName": "Priya",
+            "phoneNumber": 9954076986
+        },
+        "party2": {
+            "firstName": "Nithis",
+            "lastName": "kumar",
+            "phoneNumber": 9706243008
+        },
+        "caseID": 1422689,
+        "state": "Goa",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Deva",
+            "lastName": "Nandana",
+            "phoneNumber": 9372041358,
+            "email": "devanandana@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Akal",
+            "lastName": "Keerat",
+            "phoneNumber": 7440061987
+        },
+        "party2": {
+            "firstName": "Pooja",
+            "lastName": "arthi",
+            "phoneNumber": 8457632699
+        },
+        "caseID": 9404237,
+        "state": "Rajasthan",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Vasantha",
+            "lastName": "gowri",
+            "phoneNumber": 8873502682,
+            "email": "vasanthagowri@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sai",
+            "lastName": "Ram",
+            "phoneNumber": 7961063144
+        },
+        "party2": {
+            "firstName": "Pavan",
+            "lastName": "Kumar",
+            "phoneNumber": 7565053190
+        },
+        "caseID": 5678587,
+        "state": "Jharkhand",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Theepa",
+            "lastName": "priya",
+            "phoneNumber": 7154999385,
+            "email": "theepapriya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sees",
+            "lastName": "Ram",
+            "phoneNumber": 7166452244
+        },
+        "party2": {
+            "firstName": "Bhavarogasya",
+            "lastName": "Bheshaja",
+            "phoneNumber": 6473494707
+        },
+        "caseID": 3617524,
+        "state": "Andhra Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Dharm",
+            "lastName": "Mitra",
+            "phoneNumber": 7131316583,
+            "email": "dharmmitra@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Gokul",
+            "lastName": "kumar",
+            "phoneNumber": 9469532083
+        },
+        "party2": {
+            "firstName": "Mani",
+            "lastName": "Chandrika",
+            "phoneNumber": 6565859146
+        },
+        "caseID": 3121885,
+        "state": "Daman and Diu",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Pothykai",
+            "lastName": "selvan",
+            "phoneNumber": 6309354714,
+            "email": "pothykaiselvan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Madhan",
+            "lastName": "kumar",
+            "phoneNumber": 8409627275
+        },
+        "party2": {
+            "firstName": "Sai",
+            "lastName": "Deepak",
+            "phoneNumber": 7108975915
+        },
+        "caseID": 3486194,
+        "state": "Lakshadweep",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Vikrama",
+            "lastName": "rajan",
+            "phoneNumber": 9981728449,
+            "email": "vikramarajan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Muthu",
+            "lastName": "Krishnan",
+            "phoneNumber": 8974722024
+        },
+        "party2": {
+            "firstName": "Navanit",
+            "lastName": "Viliptanga",
+            "phoneNumber": 9511336621
+        },
+        "caseID": 9766580,
+        "state": "Uttar Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Asha",
+            "lastName": "Rani",
+            "phoneNumber": 7366284031,
+            "email": "asharani@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ram",
+            "lastName": "Hasit",
+            "phoneNumber": 7121439470
+        },
+        "party2": {
+            "firstName": "Saket",
+            "lastName": "Sriram",
+            "phoneNumber": 7089213982
+        },
+        "caseID": 9708999,
+        "state": "Kerala",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mohd.",
+            "lastName": "Sabir",
+            "phoneNumber": 6104511130,
+            "email": "mohd.sabir@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Elil",
+            "lastName": "Arasy",
+            "phoneNumber": 7460982918
+        },
+        "party2": {
+            "firstName": "Dhanyya",
+            "lastName": "shree",
+            "phoneNumber": 8776596886
+        },
+        "caseID": 8906226,
+        "state": "West Bengal",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sravan",
+            "lastName": "Kumar",
+            "phoneNumber": 6576355123,
+            "email": "sravankumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Abdus",
+            "lastName": "Shaheed",
+            "phoneNumber": 9615497826
+        },
+        "party2": {
+            "firstName": "Uday",
+            "lastName": "Tej",
+            "phoneNumber": 9446862264
+        },
+        "caseID": 8109418,
+        "state": "West Bengal",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Anantha",
+            "lastName": "Revathy",
+            "phoneNumber": 8886972920,
+            "email": "anantharevathy@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ratna",
+            "lastName": "Prabha",
+            "phoneNumber": 7943689745
+        },
+        "party2": {
+            "firstName": "Neveetha",
+            "lastName": "malar",
+            "phoneNumber": 7897321844
+        },
+        "caseID": 7917260,
+        "state": "Manipur",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Nilesh",
+            "lastName": "karthik",
+            "phoneNumber": 7350907482,
+            "email": "nileshkarthik@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ghulam",
+            "lastName": "Mohammed",
+            "phoneNumber": 9955541295
+        },
+        "party2": {
+            "firstName": "Pava",
+            "lastName": "dharini",
+            "phoneNumber": 7274958391
+        },
+        "caseID": 5408526,
+        "state": "Kerala",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Jothi",
+            "lastName": "lakshmi",
+            "phoneNumber": 6698807500,
+            "email": "jothilakshmi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Illam",
+            "lastName": "valluthi",
+            "phoneNumber": 9883466605
+        },
+        "party2": {
+            "firstName": "Dhaarun",
+            "lastName": "kumar",
+            "phoneNumber": 7326119430
+        },
+        "caseID": 8055189,
+        "state": "Gujarat",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ram",
+            "lastName": "Mohan",
+            "phoneNumber": 8594576703,
+            "email": "rammohan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Hare",
+            "lastName": "Krishna",
+            "phoneNumber": 6707751978
+        },
+        "party2": {
+            "firstName": "Prakash",
+            "lastName": "kumar",
+            "phoneNumber": 6468212778
+        },
+        "caseID": 1155070,
+        "state": "Gujarat",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Kirti",
+            "lastName": "Kumar",
+            "phoneNumber": 8829596563,
+            "email": "kirtikumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Hadhi",
+            "lastName": "Ram",
+            "phoneNumber": 6462925245
+        },
+        "party2": {
+            "firstName": "Nikil",
+            "lastName": "kumar",
+            "phoneNumber": 7040809224
+        },
+        "caseID": 3439621,
+        "state": "Nagaland",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Dharun",
+            "lastName": "kumar",
+            "phoneNumber": 8571186441,
+            "email": "dharunkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Kanya",
+            "lastName": "Kumari",
+            "phoneNumber": 9016872186
+        },
+        "party2": {
+            "firstName": "Beni",
+            "lastName": "Ram",
+            "phoneNumber": 8618074421
+        },
+        "caseID": 7381596,
+        "state": "Meghalaya",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Bala",
+            "lastName": "Ganapati",
+            "phoneNumber": 6765634617,
+            "email": "balaganapati@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Yuktha",
+            "lastName": "raj",
+            "phoneNumber": 8381452458
+        },
+        "party2": {
+            "firstName": "Shri",
+            "lastName": "Kumar",
+            "phoneNumber": 9372589842
+        },
+        "caseID": 1034666,
+        "state": "Jammu and Kashmir",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Nisanthini",
+            "lastName": "sri",
+            "phoneNumber": 7420567534,
+            "email": "nisanthinisri@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Kumara",
+            "lastName": "Vel",
+            "phoneNumber": 8467758754
+        },
+        "party2": {
+            "firstName": "Revantha",
+            "lastName": "Sai",
+            "phoneNumber": 6949147550
+        },
+        "caseID": 4549555,
+        "state": "Jharkhand",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Som",
+            "lastName": "Nath",
+            "phoneNumber": 6943598901,
+            "email": "somnath@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Har",
+            "lastName": "Lal",
+            "phoneNumber": 8983468813
+        },
+        "party2": {
+            "firstName": "Harish",
+            "lastName": "raj",
+            "phoneNumber": 8251282315
+        },
+        "caseID": 8178437,
+        "state": "Uttar Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Vibheeshana",
+            "lastName": "Pratishttatre",
+            "phoneNumber": 6978042866,
+            "email": "vibheeshanapratishttatre@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ananda",
+            "lastName": "kajaruban",
+            "phoneNumber": 7229968461
+        },
+        "party2": {
+            "firstName": "Shiam",
+            "lastName": "prasath",
+            "phoneNumber": 9144806027
+        },
+        "caseID": 6395039,
+        "state": "Andhra Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Gaja",
+            "lastName": "Lakshmi",
+            "phoneNumber": 8116928006,
+            "email": "gajalakshmi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Alekhya",
+            "lastName": "Nitya",
+            "phoneNumber": 7230267606
+        },
+        "party2": {
+            "firstName": "Jay",
+            "lastName": "Kishan",
+            "phoneNumber": 9158807749
+        },
+        "caseID": 3294298,
+        "state": "Dadra and Nagar Haveli",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Davind",
+            "lastName": "kumar",
+            "phoneNumber": 8069964418,
+            "email": "davindkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Guru",
+            "lastName": "Dutt",
+            "phoneNumber": 9946550572
+        },
+        "party2": {
+            "firstName": "Durga",
+            "lastName": "Devi",
+            "phoneNumber": 6033463741
+        },
+        "caseID": 5822545,
+        "state": "Uttarakhand",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Oviyea",
+            "lastName": "priya",
+            "phoneNumber": 7670803232,
+            "email": "oviyeapriya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sri",
+            "lastName": "varshan",
+            "phoneNumber": 9328186753
+        },
+        "party2": {
+            "firstName": "Devi",
+            "lastName": "Dutt",
+            "phoneNumber": 9071398040
+        },
+        "caseID": 8879780,
+        "state": "Andaman and Nicobar",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Arul",
+            "lastName": "Priya",
+            "phoneNumber": 9773040737,
+            "email": "arulpriya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Kal",
+            "lastName": "Hans",
+            "phoneNumber": 9265709703
+        },
+        "party2": {
+            "firstName": "Shiv",
+            "lastName": "Shekhar",
+            "phoneNumber": 6354703385
+        },
+        "caseID": 1550302,
+        "state": "Sikkim",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Satya",
+            "lastName": "Priya",
+            "phoneNumber": 7914361560,
+            "email": "satyapriya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Bhavani",
+            "lastName": "Sankar",
+            "phoneNumber": 7202687300
+        },
+        "party2": {
+            "firstName": "Abul",
+            "lastName": "Khayr",
+            "phoneNumber": 6054315602
+        },
+        "caseID": 6231997,
+        "state": "Delhi",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Anusha",
+            "lastName": "Sinha",
+            "phoneNumber": 8301881403,
+            "email": "anushasinha@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Raghul",
+            "lastName": "kannan",
+            "phoneNumber": 8892590477
+        },
+        "party2": {
+            "firstName": "Udaya",
+            "lastName": "Kumar",
+            "phoneNumber": 7771305576
+        },
+        "caseID": 3783551,
+        "state": "Rajasthan",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ram",
+            "lastName": "Datt",
+            "phoneNumber": 8141385466,
+            "email": "ramdatt@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Varshina",
+            "lastName": "rithika",
+            "phoneNumber": 7621563722
+        },
+        "party2": {
+            "firstName": "Thana",
+            "lastName": "priya",
+            "phoneNumber": 8393553126
+        },
+        "caseID": 8211013,
+        "state": "Haryana",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Muthu",
+            "lastName": "lakshime",
+            "phoneNumber": 6379363751,
+            "email": "muthulakshime@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Varshini",
+            "lastName": "oviya",
+            "phoneNumber": 8969590815
+        },
+        "party2": {
+            "firstName": "Pavan",
+            "lastName": "Adithya",
+            "phoneNumber": 9496342358
+        },
+        "caseID": 9713697,
+        "state": "Daman and Diu",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sasi",
+            "lastName": "anandh",
+            "phoneNumber": 6558288126,
+            "email": "sasianandh@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Megh",
+            "lastName": "Nad",
+            "phoneNumber": 9817995827
+        },
+        "party2": {
+            "firstName": "Arun",
+            "lastName": "Jyothi",
+            "phoneNumber": 6760221994
+        },
+        "caseID": 2607773,
+        "state": "Manipur",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Karthik",
+            "lastName": "kumar",
+            "phoneNumber": 8930236801,
+            "email": "karthikkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Bhagya",
+            "lastName": "Lakshmi",
+            "phoneNumber": 7379965426
+        },
+        "party2": {
+            "firstName": "Sooriya",
+            "lastName": "prakash",
+            "phoneNumber": 9819168099
+        },
+        "caseID": 7587934,
+        "state": "Karnataka",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Surya",
+            "lastName": "sudarshan",
+            "phoneNumber": 6790637611,
+            "email": "suryasudarshan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Rajesh",
+            "lastName": "kannan",
+            "phoneNumber": 6666340273
+        },
+        "party2": {
+            "firstName": "Yash",
+            "lastName": "Raj",
+            "phoneNumber": 7074687715
+        },
+        "caseID": 9797416,
+        "state": "Andaman and Nicobar",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Yuva",
+            "lastName": "Thaarani",
+            "phoneNumber": 6455250624,
+            "email": "yuvathaarani@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Naaga",
+            "lastName": "pooshani",
+            "phoneNumber": 6695808590
+        },
+        "party2": {
+            "firstName": "Sai",
+            "lastName": "deepan",
+            "phoneNumber": 9965938045
+        },
+        "caseID": 2029700,
+        "state": "Chandigarh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Man",
+            "lastName": "Mohan",
+            "phoneNumber": 7814219319,
+            "email": "manmohan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Kavya",
+            "lastName": "mathavan",
+            "phoneNumber": 6461644080
+        },
+        "party2": {
+            "firstName": "Manju",
+            "lastName": "Prasanna",
+            "phoneNumber": 8881147730
+        },
+        "caseID": 5241696,
+        "state": "Jharkhand",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Gurmukh",
+            "lastName": "Gurnam",
+            "phoneNumber": 9267577460,
+            "email": "gurmukhgurnam@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Rama",
+            "lastName": "krishnan",
+            "phoneNumber": 6705184430
+        },
+        "party2": {
+            "firstName": "Yogitha",
+            "lastName": "vathana",
+            "phoneNumber": 6737494278
+        },
+        "caseID": 7794633,
+        "state": "Kerala",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ananda",
+            "lastName": "raja",
+            "phoneNumber": 9164626846,
+            "email": "anandaraja@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sri",
+            "lastName": "ganesh",
+            "phoneNumber": 7654984041
+        },
+        "party2": {
+            "firstName": "Adithya",
+            "lastName": "ramanan",
+            "phoneNumber": 7720956647
+        },
+        "caseID": 5558261,
+        "state": "Bihar",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mayil",
+            "lastName": "Vahanan",
+            "phoneNumber": 9051146927,
+            "email": "mayilvahanan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Mahadevadi",
+            "lastName": "Pujita",
+            "phoneNumber": 7997082581
+        },
+        "party2": {
+            "firstName": "Mohana",
+            "lastName": "priyan",
+            "phoneNumber": 7791460929
+        },
+        "caseID": 4727077,
+        "state": "West Bengal",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sri",
+            "lastName": "pathi",
+            "phoneNumber": 9275621743,
+            "email": "sripathi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Gorakh",
+            "lastName": "Nath",
+            "phoneNumber": 6402933237
+        },
+        "party2": {
+            "firstName": "Mullai",
+            "lastName": "venthan",
+            "phoneNumber": 9835265267
+        },
+        "caseID": 8269987,
+        "state": "Uttarakhand",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Deep",
+            "lastName": "Chand",
+            "phoneNumber": 8693389050,
+            "email": "deepchand@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Karthika",
+            "lastName": "lakshmi",
+            "phoneNumber": 6172942007
+        },
+        "party2": {
+            "firstName": "Bal",
+            "lastName": "Gopal",
+            "phoneNumber": 8392143785
+        },
+        "caseID": 4595202,
+        "state": "Jharkhand",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Palani",
+            "lastName": "Murugan",
+            "phoneNumber": 6986215626,
+            "email": "palanimurugan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Kaarthigai",
+            "lastName": "selvan",
+            "phoneNumber": 8913299392
+        },
+        "party2": {
+            "firstName": "Guna",
+            "lastName": "sekaran",
+            "phoneNumber": 7621088689
+        },
+        "caseID": 4044056,
+        "state": "Himachal Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Arivu",
+            "lastName": "nambi",
+            "phoneNumber": 6098467293,
+            "email": "arivunambi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Manotheetha",
+            "lastName": "amirthini",
+            "phoneNumber": 6521715459
+        },
+        "party2": {
+            "firstName": "Maha",
+            "lastName": "Ganapati",
+            "phoneNumber": 8851229479
+        },
+        "caseID": 3442713,
+        "state": "Chandigarh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Shat",
+            "lastName": "Padm",
+            "phoneNumber": 7533096267,
+            "email": "shatpadm@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Vijay",
+            "lastName": "sankar",
+            "phoneNumber": 7101947703
+        },
+        "party2": {
+            "firstName": "Jaya",
+            "lastName": "shree",
+            "phoneNumber": 6638382850
+        },
+        "caseID": 4232472,
+        "state": "Bihar",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Surya",
+            "lastName": "kumar",
+            "phoneNumber": 9795312728,
+            "email": "suryakumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Bharathi",
+            "lastName": "mohan",
+            "phoneNumber": 8394957824
+        },
+        "party2": {
+            "firstName": "Rakshavanara",
+            "lastName": "Sangathine",
+            "phoneNumber": 8442209167
+        },
+        "caseID": 1136049,
+        "state": "Assam",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sanjay",
+            "lastName": "kumar",
+            "phoneNumber": 7423902248,
+            "email": "sanjaykumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sai",
+            "lastName": "senthil",
+            "phoneNumber": 6858505493
+        },
+        "party2": {
+            "firstName": "Ali",
+            "lastName": "Mohammed",
+            "phoneNumber": 6078091999
+        },
+        "caseID": 9359225,
+        "state": "Dadra and Nagar Haveli",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Vasu",
+            "lastName": "Prasad",
+            "phoneNumber": 6033844046,
+            "email": "vasuprasad@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Satya",
+            "lastName": "Prakash",
+            "phoneNumber": 6287376709
+        },
+        "party2": {
+            "firstName": "Harihara",
+            "lastName": "sudan",
+            "phoneNumber": 6488374717
+        },
+        "caseID": 7915616,
+        "state": "Meghalaya",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Muttu",
+            "lastName": "Kumaraswami",
+            "phoneNumber": 7917297217,
+            "email": "muttukumaraswami@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Prithvi",
+            "lastName": "raja",
+            "phoneNumber": 7968226266
+        },
+        "party2": {
+            "firstName": "Ghulam",
+            "lastName": "Nabi",
+            "phoneNumber": 7584377393
+        },
+        "caseID": 2159881,
+        "state": "Tamil Nadu",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ananda",
+            "lastName": "chivan",
+            "phoneNumber": 8052157487,
+            "email": "anandachivan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Gowshik",
+            "lastName": "kumar",
+            "phoneNumber": 6507418163
+        },
+        "party2": {
+            "firstName": "Ananda",
+            "lastName": "barathan",
+            "phoneNumber": 6768008670
+        },
+        "caseID": 3629161,
+        "state": "Gujarat",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mohd.",
+            "lastName": "Abdullah",
+            "phoneNumber": 7077690136,
+            "email": "mohd.abdullah@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Abdul",
+            "lastName": "Rahaman",
+            "phoneNumber": 9387677987
+        },
+        "party2": {
+            "firstName": "Ram",
+            "lastName": "Gopal",
+            "phoneNumber": 6513293036
+        },
+        "caseID": 5650560,
+        "state": "Assam",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Jay",
+            "lastName": "prasath",
+            "phoneNumber": 6988237996,
+            "email": "jayprasath@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Raj",
+            "lastName": "Kumar",
+            "phoneNumber": 8744009105
+        },
+        "party2": {
+            "firstName": "Mani",
+            "lastName": "Revathi",
+            "phoneNumber": 6785198095
+        },
+        "caseID": 4257754,
+        "state": "Punjab",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Harsha",
+            "lastName": "vardini",
+            "phoneNumber": 9112786744,
+            "email": "harshavardini@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sapna",
+            "lastName": "Devi",
+            "phoneNumber": 8795792887
+        },
+        "party2": {
+            "firstName": "Sarva",
+            "lastName": "Mangala",
+            "phoneNumber": 9457497619
+        },
+        "caseID": 2990692,
+        "state": "Manipur",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Vimala",
+            "lastName": "priya",
+            "phoneNumber": 6516405666,
+            "email": "vimalapriya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Keerthy",
+            "lastName": "vasan",
+            "phoneNumber": 9857802310
+        },
+        "party2": {
+            "firstName": "Kavi",
+            "lastName": "Naya",
+            "phoneNumber": 7513432805
+        },
+        "caseID": 5335955,
+        "state": "Tamil Nadu",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abdul",
+            "lastName": "Ghani",
+            "phoneNumber": 6359488754,
+            "email": "abdulghani@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Laxmi",
+            "lastName": "Srinivas",
+            "phoneNumber": 9366518987
+        },
+        "party2": {
+            "firstName": "Hari",
+            "lastName": "nanthan",
+            "phoneNumber": 7787997786
+        },
+        "caseID": 1085419,
+        "state": "Mizoram",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Dev",
+            "lastName": "Kumar",
+            "phoneNumber": 7205495059,
+            "email": "devkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Jeneesh",
+            "lastName": "kumar",
+            "phoneNumber": 9644736498
+        },
+        "party2": {
+            "firstName": "Jay",
+            "lastName": "Prakash",
+            "phoneNumber": 8945072936
+        },
+        "caseID": 1504392,
+        "state": "Goa",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Pradeep",
+            "lastName": "rajan",
+            "phoneNumber": 8221876137,
+            "email": "pradeeprajan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ekai",
+            "lastName": "Jinko",
+            "phoneNumber": 7422640149
+        },
+        "party2": {
+            "firstName": "Jai",
+            "lastName": "Kishan",
+            "phoneNumber": 8553021510
+        },
+        "caseID": 5482998,
+        "state": "Haryana",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Bala",
+            "lastName": "Mani",
+            "phoneNumber": 7364661177,
+            "email": "balamani@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Bala",
+            "lastName": "Chandra",
+            "phoneNumber": 8767969826
+        },
+        "party2": {
+            "firstName": "Bhanu",
+            "lastName": "Priya",
+            "phoneNumber": 7591010621
+        },
+        "caseID": 9156022,
+        "state": "Lakshadweep",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sai",
+            "lastName": "Satpurusha",
+            "phoneNumber": 6431807728,
+            "email": "saisatpurusha@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Partha",
+            "lastName": "sarathi",
+            "phoneNumber": 7372541150
+        },
+        "party2": {
+            "firstName": "Shirdi",
+            "lastName": "Prasad",
+            "phoneNumber": 9056483578
+        },
+        "caseID": 9682129,
+        "state": "Kerala",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sakthi",
+            "lastName": "sri",
+            "phoneNumber": 6618168597,
+            "email": "sakthisri@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Shat",
+            "lastName": "Manyu",
+            "phoneNumber": 7891154204
+        },
+        "party2": {
+            "firstName": "Abdul",
+            "lastName": "Khaliq",
+            "phoneNumber": 9721027138
+        },
+        "caseID": 8689112,
+        "state": "Madhya Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mag",
+            "lastName": "Raj",
+            "phoneNumber": 8335169473,
+            "email": "magraj@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Madan",
+            "lastName": "Gopal",
+            "phoneNumber": 8549382741
+        },
+        "party2": {
+            "firstName": "Ganesh",
+            "lastName": "kumar",
+            "phoneNumber": 6935176106
+        },
+        "caseID": 8468775,
+        "state": "Uttarakhand",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Hema",
+            "lastName": "Lathi",
+            "phoneNumber": 6302209802,
+            "email": "hemalathi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Kavip",
+            "lastName": "Priya",
+            "phoneNumber": 6704960874
+        },
+        "party2": {
+            "firstName": "Deava",
+            "lastName": "nathan",
+            "phoneNumber": 9397500597
+        },
+        "caseID": 1001239,
+        "state": "Jharkhand",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ananda",
+            "lastName": "thayalan",
+            "phoneNumber": 9605554060,
+            "email": "anandathayalan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Dharm",
+            "lastName": "Dutt",
+            "phoneNumber": 7459558104
+        },
+        "party2": {
+            "firstName": "Madhu",
+            "lastName": "shalini",
+            "phoneNumber": 9657205918
+        },
+        "caseID": 5118861,
+        "state": "Mizoram",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Dhan",
+            "lastName": "Laxmi",
+            "phoneNumber": 6593777811,
+            "email": "dhanlaxmi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Divya",
+            "lastName": "Shree",
+            "phoneNumber": 6888059219
+        },
+        "party2": {
+            "firstName": "Mohana",
+            "lastName": "shree",
+            "phoneNumber": 9776528758
+        },
+        "caseID": 4908188,
+        "state": "Madhya Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abdus",
+            "lastName": "Sami",
+            "phoneNumber": 6548568190,
+            "email": "abdussami@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Lakshmi",
+            "lastName": "Kant",
+            "phoneNumber": 6257325801
+        },
+        "party2": {
+            "firstName": "Mohd.",
+            "lastName": "Khaleel",
+            "phoneNumber": 7834754467
+        },
+        "caseID": 6782352,
+        "state": "Himachal Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Gautham",
+            "lastName": "menon",
+            "phoneNumber": 8002697523,
+            "email": "gauthammenon@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Raja",
+            "lastName": "ram",
+            "phoneNumber": 7823729085
+        },
+        "party2": {
+            "firstName": "Harihara",
+            "lastName": "suthan",
+            "phoneNumber": 6031782525
+        },
+        "caseID": 4412095,
+        "state": "Manipur",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Kalai",
+            "lastName": "wani",
+            "phoneNumber": 6062778289,
+            "email": "kalaiwani@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Inder",
+            "lastName": "Kant",
+            "phoneNumber": 9426068152
+        },
+        "party2": {
+            "firstName": "Devi",
+            "lastName": "Dyal",
+            "phoneNumber": 7665459116
+        },
+        "caseID": 6523066,
+        "state": "Uttar Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mohd.",
+            "lastName": "Mustaffa",
+            "phoneNumber": 8019777255,
+            "email": "mohd.mustaffa@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Satheesh",
+            "lastName": "kumar",
+            "phoneNumber": 9207374164
+        },
+        "party2": {
+            "firstName": "Gyan",
+            "lastName": "Karthik",
+            "phoneNumber": 8058644876
+        },
+        "caseID": 5480209,
+        "state": "West Bengal",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Yoga",
+            "lastName": "priya",
+            "phoneNumber": 7932389627,
+            "email": "yogapriya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Hari",
+            "lastName": "Prasath",
+            "phoneNumber": 8550910203
+        },
+        "party2": {
+            "firstName": "Ravi",
+            "lastName": "Kumar",
+            "phoneNumber": 8232271874
+        },
+        "caseID": 3915645,
+        "state": "Maharashtra",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Jaramarana",
+            "lastName": "Varjita",
+            "phoneNumber": 7910259746,
+            "email": "jaramaranavarjita@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Akshay",
+            "lastName": "Kumar",
+            "phoneNumber": 9871032084
+        },
+        "party2": {
+            "firstName": "Dhutit",
+            "lastName": "Arjav",
+            "phoneNumber": 8528156127
+        },
+        "caseID": 9046311,
+        "state": "Manipur",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Veda",
+            "lastName": "viyasan",
+            "phoneNumber": 9471069360,
+            "email": "vedaviyasan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Deva",
+            "lastName": "Priya",
+            "phoneNumber": 6416921975
+        },
+        "party2": {
+            "firstName": "Hema",
+            "lastName": "priya",
+            "phoneNumber": 9937212658
+        },
+        "caseID": 7564014,
+        "state": "Manipur",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mani",
+            "lastName": "kandan",
+            "phoneNumber": 7914974396,
+            "email": "manikandan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Muthu",
+            "lastName": "azhahu",
+            "phoneNumber": 9911174643
+        },
+        "party2": {
+            "firstName": "Sree",
+            "lastName": "charan",
+            "phoneNumber": 8215961764
+        },
+        "caseID": 4459160,
+        "state": "Sikkim",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Joel",
+            "lastName": "pravin",
+            "phoneNumber": 9951015485,
+            "email": "joelpravin@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Abdul",
+            "lastName": "Qadir",
+            "phoneNumber": 6271344063
+        },
+        "party2": {
+            "firstName": "Illam",
+            "lastName": "paruthi",
+            "phoneNumber": 6141516612
+        },
+        "caseID": 5490577,
+        "state": "Punjab",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Manju",
+            "lastName": "sri",
+            "phoneNumber": 6448439846,
+            "email": "manjusri@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Madhu",
+            "lastName": "sri",
+            "phoneNumber": 8186362050
+        },
+        "party2": {
+            "firstName": "Rama",
+            "lastName": "Satya",
+            "phoneNumber": 6792499946
+        },
+        "caseID": 5699336,
+        "state": "Assam",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Himanth",
+            "lastName": "Raj",
+            "phoneNumber": 9830700619,
+            "email": "himanthraj@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Bala",
+            "lastName": "Kumar",
+            "phoneNumber": 9068841999
+        },
+        "party2": {
+            "firstName": "Bakya",
+            "lastName": "shree",
+            "phoneNumber": 9682797082
+        },
+        "caseID": 1943215,
+        "state": "Uttar Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sanjay",
+            "lastName": "vishal",
+            "phoneNumber": 9774848174,
+            "email": "sanjayvishal@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Dina",
+            "lastName": "Nath",
+            "phoneNumber": 8909593505
+        },
+        "party2": {
+            "firstName": "Jeyanthra",
+            "lastName": "shree",
+            "phoneNumber": 9824128982
+        },
+        "caseID": 9272534,
+        "state": "West Bengal",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Tamil",
+            "lastName": "enthi",
+            "phoneNumber": 8630867833,
+            "email": "tamilenthi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Gopal",
+            "lastName": "Das",
+            "phoneNumber": 9496289167
+        },
+        "party2": {
+            "firstName": "Akshaya",
+            "lastName": "Guna",
+            "phoneNumber": 8399070131
+        },
+        "caseID": 1945874,
+        "state": "Andhra Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ananda",
+            "lastName": "jeevan",
+            "phoneNumber": 7747650179,
+            "email": "anandajeevan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Shah",
+            "lastName": "Nawaz",
+            "phoneNumber": 9615939297
+        },
+        "party2": {
+            "firstName": "Mohana",
+            "lastName": "Priya",
+            "phoneNumber": 7588814612
+        },
+        "caseID": 3793801,
+        "state": "Madhya Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Anand",
+            "lastName": "Swarup",
+            "phoneNumber": 8217055943,
+            "email": "anandswarup@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Tanu",
+            "lastName": "Priya",
+            "phoneNumber": 7775834501
+        },
+        "party2": {
+            "firstName": "Jai",
+            "lastName": "Prakash",
+            "phoneNumber": 6102193240
+        },
+        "caseID": 9497697,
+        "state": "Telangana",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Tamil",
+            "lastName": "mani",
+            "phoneNumber": 9853090399,
+            "email": "tamilmani@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Amirtha",
+            "lastName": "haran",
+            "phoneNumber": 9353896523
+        },
+        "party2": {
+            "firstName": "Manju",
+            "lastName": "Prasad",
+            "phoneNumber": 8386251505
+        },
+        "caseID": 1407114,
+        "state": "Haryana",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Rishita",
+            "lastName": "Shree",
+            "phoneNumber": 6967200155,
+            "email": "rishitashree@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Muthu",
+            "lastName": "dharshini",
+            "phoneNumber": 6086792616
+        },
+        "party2": {
+            "firstName": "Padma",
+            "lastName": "Priya",
+            "phoneNumber": 9678059203
+        },
+        "caseID": 9835375,
+        "state": "Assam",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Baanke",
+            "lastName": "Bihaari",
+            "phoneNumber": 7842908313,
+            "email": "baankebihaari@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Uma",
+            "lastName": "shankar",
+            "phoneNumber": 6808437377
+        },
+        "party2": {
+            "firstName": "Mriganka",
+            "lastName": "Mouli",
+            "phoneNumber": 9293607675
+        },
+        "caseID": 5940211,
+        "state": "Tamil Nadu",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Harish",
+            "lastName": "kumaran",
+            "phoneNumber": 9349879103,
+            "email": "harishkumaran@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Deepa",
+            "lastName": "Laxmi",
+            "phoneNumber": 7889161250
+        },
+        "party2": {
+            "firstName": "Bindu",
+            "lastName": "Priya",
+            "phoneNumber": 8716558994
+        },
+        "caseID": 5555711,
+        "state": "Uttarakhand",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Hema",
+            "lastName": "Latha",
+            "phoneNumber": 7914381227,
+            "email": "hemalatha@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Gogul",
+            "lastName": "prasath",
+            "phoneNumber": 9525626589
+        },
+        "party2": {
+            "firstName": "Alagu",
+            "lastName": "rani",
+            "phoneNumber": 9987747387
+        },
+        "caseID": 3986768,
+        "state": "Lakshadweep",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Hari",
+            "lastName": "Prasad",
+            "phoneNumber": 6508992186,
+            "email": "hariprasad@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Jaya",
+            "lastName": "Lakshmi",
+            "phoneNumber": 7814939423
+        },
+        "party2": {
+            "firstName": "Lakshmi",
+            "lastName": "Gopal",
+            "phoneNumber": 7165886643
+        },
+        "caseID": 7558439,
+        "state": "Kerala",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Siva",
+            "lastName": "Preethi",
+            "phoneNumber": 7216954909,
+            "email": "sivapreethi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Vinu",
+            "lastName": "Priya",
+            "phoneNumber": 6748886484
+        },
+        "party2": {
+            "firstName": "Nina",
+            "lastName": "Akshaya",
+            "phoneNumber": 8959384757
+        },
+        "caseID": 1263323,
+        "state": "Uttar Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abdul",
+            "lastName": "Aziz",
+            "phoneNumber": 9487479398,
+            "email": "abdulaziz@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sada",
+            "lastName": "Shiv",
+            "phoneNumber": 9340952471
+        },
+        "party2": {
+            "firstName": "Kaniska",
+            "lastName": "varman",
+            "phoneNumber": 6554653439
+        },
+        "caseID": 5356008,
+        "state": "Uttar Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Anoj",
+            "lastName": "kumar",
+            "phoneNumber": 7825083014,
+            "email": "anojkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Param",
+            "lastName": "Hans",
+            "phoneNumber": 9537989758
+        },
+        "party2": {
+            "firstName": "Jai",
+            "lastName": "Krishna",
+            "phoneNumber": 7652669642
+        },
+        "caseID": 9495049,
+        "state": "Rajasthan",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Bhal",
+            "lastName": "Chandra",
+            "phoneNumber": 7464512880,
+            "email": "bhalchandra@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sai",
+            "lastName": "Saran",
+            "phoneNumber": 6352542346
+        },
+        "party2": {
+            "firstName": "Ganesh",
+            "lastName": "ram",
+            "phoneNumber": 6097645640
+        },
+        "caseID": 7430987,
+        "state": "Mizoram",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Nabi",
+            "lastName": "Bux",
+            "phoneNumber": 9451001285,
+            "email": "nabibux@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Uma",
+            "lastName": "Bhuiayn",
+            "phoneNumber": 7645661875
+        },
+        "party2": {
+            "firstName": "Nand",
+            "lastName": "Kumar",
+            "phoneNumber": 9439800065
+        },
+        "caseID": 9335674,
+        "state": "Chhattisgarh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sujith",
+            "lastName": "Kanna",
+            "phoneNumber": 6928489119,
+            "email": "sujithkanna@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Arun",
+            "lastName": "prakash",
+            "phoneNumber": 7186311502
+        },
+        "party2": {
+            "firstName": "Gitamrita",
+            "lastName": "Mahodadhi",
+            "phoneNumber": 7237528520
+        },
+        "caseID": 9932290,
+        "state": "Gujarat",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Akshaya",
+            "lastName": "dharshini",
+            "phoneNumber": 6350073895,
+            "email": "akshayadharshini@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sai",
+            "lastName": "sanjeev",
+            "phoneNumber": 9151317621
+        },
+        "party2": {
+            "firstName": "Daulat",
+            "lastName": "Ram",
+            "phoneNumber": 7579050303
+        },
+        "caseID": 5972972,
+        "state": "Jammu and Kashmir",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Harish",
+            "lastName": "raghavendra",
+            "phoneNumber": 8860311269,
+            "email": "harishraghavendra@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Vishnu",
+            "lastName": "prasanth",
+            "phoneNumber": 8524135196
+        },
+        "party2": {
+            "firstName": "Vishnu",
+            "lastName": "Priya",
+            "phoneNumber": 9864577079
+        },
+        "caseID": 3698455,
+        "state": "Uttarakhand",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sinjon",
+            "lastName": "sachin",
+            "phoneNumber": 8701155423,
+            "email": "sinjonsachin@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ananda",
+            "lastName": "kulajeevan",
+            "phoneNumber": 7177728145
+        },
+        "party2": {
+            "firstName": "Jag",
+            "lastName": "Jeevan",
+            "phoneNumber": 6361544721
+        },
+        "caseID": 9669385,
+        "state": "Andaman and Nicobar",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Lakshmi",
+            "lastName": "Priya",
+            "phoneNumber": 8982027851,
+            "email": "lakshmipriya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Tanvi",
+            "lastName": "Sree",
+            "phoneNumber": 9698325966
+        },
+        "party2": {
+            "firstName": "Inpa",
+            "lastName": "raj",
+            "phoneNumber": 8741997489
+        },
+        "caseID": 1559939,
+        "state": "Mizoram",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Senthil",
+            "lastName": "kumar",
+            "phoneNumber": 8824875103,
+            "email": "senthilkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Karthick",
+            "lastName": "raj",
+            "phoneNumber": 9007973953
+        },
+        "party2": {
+            "firstName": "Ananya",
+            "lastName": "suresh",
+            "phoneNumber": 7632362046
+        },
+        "caseID": 9247469,
+        "state": "Himachal Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Kavya",
+            "lastName": "Shri",
+            "phoneNumber": 8290111835,
+            "email": "kavyashri@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Lakshmi",
+            "lastName": "Shree",
+            "phoneNumber": 8438904714
+        },
+        "party2": {
+            "firstName": "Varnisha",
+            "lastName": "sri",
+            "phoneNumber": 7187485239
+        },
+        "caseID": 1363100,
+        "state": "Arunachal Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Kanak",
+            "lastName": "Priya",
+            "phoneNumber": 6470317979,
+            "email": "kanakpriya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Rudra",
+            "lastName": "Kumar",
+            "phoneNumber": 8133648252
+        },
+        "party2": {
+            "firstName": "Nitya",
+            "lastName": "Priya",
+            "phoneNumber": 6540821854
+        },
+        "caseID": 4556266,
+        "state": "Daman and Diu",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abdul",
+            "lastName": "Wahid",
+            "phoneNumber": 7822670623,
+            "email": "abdulwahid@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Madhu",
+            "lastName": "Priya",
+            "phoneNumber": 9923429165
+        },
+        "party2": {
+            "firstName": "Hari",
+            "lastName": "srinivas",
+            "phoneNumber": 7752880021
+        },
+        "caseID": 5350281,
+        "state": "Meghalaya",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Badri",
+            "lastName": "Narayanan",
+            "phoneNumber": 8871033596,
+            "email": "badrinarayanan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Dayaal",
+            "lastName": "arvind",
+            "phoneNumber": 7942546884
+        },
+        "party2": {
+            "firstName": "Dhanu",
+            "lastName": "Priya",
+            "phoneNumber": 9962771743
+        },
+        "caseID": 3998171,
+        "state": "Bihar",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Brij",
+            "lastName": "Mohan",
+            "phoneNumber": 6833599740,
+            "email": "brijmohan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Chandra",
+            "lastName": "Vadana",
+            "phoneNumber": 8927866422
+        },
+        "party2": {
+            "firstName": "Om",
+            "lastName": "Parkash",
+            "phoneNumber": 7114993484
+        },
+        "caseID": 7845838,
+        "state": "Punjab",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Vijaya",
+            "lastName": "Lakshmi",
+            "phoneNumber": 9772158421,
+            "email": "vijayalakshmi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Naresh",
+            "lastName": "kumar",
+            "phoneNumber": 9707343900
+        },
+        "party2": {
+            "firstName": "Muthuna",
+            "lastName": "devi",
+            "phoneNumber": 6763272111
+        },
+        "caseID": 4888135,
+        "state": "Daman and Diu",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Prem",
+            "lastName": "kumar",
+            "phoneNumber": 9291188493,
+            "email": "premkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Muttuk",
+            "lastName": "Kumaran",
+            "phoneNumber": 9510038835
+        },
+        "party2": {
+            "firstName": "Lakshmi",
+            "lastName": "Nath",
+            "phoneNumber": 8045908916
+        },
+        "caseID": 4816539,
+        "state": "Delhi",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mahitha",
+            "lastName": "Devi",
+            "phoneNumber": 7974052424,
+            "email": "mahithadevi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sai",
+            "lastName": "Krishna",
+            "phoneNumber": 6210114563
+        },
+        "party2": {
+            "firstName": "Srijan",
+            "lastName": "sachin",
+            "phoneNumber": 9442491263
+        },
+        "caseID": 5160215,
+        "state": "Jammu and Kashmir",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Preetha",
+            "lastName": "Lakshmi",
+            "phoneNumber": 8627247037,
+            "email": "preethalakshmi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Shanjeev",
+            "lastName": "shivan",
+            "phoneNumber": 6646602855
+        },
+        "party2": {
+            "firstName": "Sathya",
+            "lastName": "Priya",
+            "phoneNumber": 7742428759
+        },
+        "caseID": 8495847,
+        "state": "Puducherry",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Illam",
+            "lastName": "Valuthy",
+            "phoneNumber": 7755939432,
+            "email": "illamvaluthy@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Yohan",
+            "lastName": "kumar",
+            "phoneNumber": 8331268724
+        },
+        "party2": {
+            "firstName": "Jaison",
+            "lastName": "sanjay",
+            "phoneNumber": 7857042399
+        },
+        "caseID": 5888027,
+        "state": "Himachal Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sai",
+            "lastName": "Sahas",
+            "phoneNumber": 6274656935,
+            "email": "saisahas@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ghulam",
+            "lastName": "Hassan",
+            "phoneNumber": 9318565137
+        },
+        "party2": {
+            "firstName": "Shree",
+            "lastName": "varshan",
+            "phoneNumber": 8814130414
+        },
+        "caseID": 1348323,
+        "state": "Himachal Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Muthamil",
+            "lastName": "selvan",
+            "phoneNumber": 7268944117,
+            "email": "muthamilselvan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Deepak",
+            "lastName": "kumar",
+            "phoneNumber": 6074119019
+        },
+        "party2": {
+            "firstName": "Rai",
+            "lastName": "Kumar",
+            "phoneNumber": 6644364345
+        },
+        "caseID": 3690453,
+        "state": "West Bengal",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ganga",
+            "lastName": "Ram",
+            "phoneNumber": 7930436371,
+            "email": "gangaram@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Irai",
+            "lastName": "thamarai",
+            "phoneNumber": 7532513879
+        },
+        "party2": {
+            "firstName": "Padma",
+            "lastName": "harshini",
+            "phoneNumber": 9519687931
+        },
+        "caseID": 3552763,
+        "state": "Daman and Diu",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Shiv",
+            "lastName": "Sai",
+            "phoneNumber": 8806803038,
+            "email": "shivsai@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Kailash",
+            "lastName": "Nath",
+            "phoneNumber": 9308779772
+        },
+        "party2": {
+            "firstName": "Rudra",
+            "lastName": "Priya",
+            "phoneNumber": 9749994756
+        },
+        "caseID": 4823894,
+        "state": "Himachal Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Rasool",
+            "lastName": "Bux",
+            "phoneNumber": 6351092529,
+            "email": "rasoolbux@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Naveen",
+            "lastName": "raj",
+            "phoneNumber": 7962809581
+        },
+        "party2": {
+            "firstName": "Kala",
+            "lastName": "Devi",
+            "phoneNumber": 8278603557
+        },
+        "caseID": 9994777,
+        "state": "Andhra Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Rishi",
+            "lastName": "Prasath",
+            "phoneNumber": 7778959366,
+            "email": "rishiprasath@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Nanda",
+            "lastName": "kumar",
+            "phoneNumber": 9040324993
+        },
+        "party2": {
+            "firstName": "Alaa",
+            "lastName": "Udeen",
+            "phoneNumber": 6322209856
+        },
+        "caseID": 6927568,
+        "state": "Meghalaya",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Dhanya",
+            "lastName": "shri",
+            "phoneNumber": 8388005720,
+            "email": "dhanyashri@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Bala",
+            "lastName": "Subramanian",
+            "phoneNumber": 9515407303
+        },
+        "party2": {
+            "firstName": "Abdus",
+            "lastName": "Shahid",
+            "phoneNumber": 8934475587
+        },
+        "caseID": 8934111,
+        "state": "Telangana",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abu",
+            "lastName": "Bakr",
+            "phoneNumber": 7918606003,
+            "email": "abubakr@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Arvin",
+            "lastName": "Kumar",
+            "phoneNumber": 7692196202
+        },
+        "party2": {
+            "firstName": "Yadhi",
+            "lastName": "priya",
+            "phoneNumber": 6892312641
+        },
+        "caseID": 1934802,
+        "state": "Tripura",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Yoga",
+            "lastName": "Lakshmi",
+            "phoneNumber": 8881651752,
+            "email": "yogalakshmi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sai",
+            "lastName": "Das",
+            "phoneNumber": 8591815809
+        },
+        "party2": {
+            "firstName": "Sathya",
+            "lastName": "sundaram",
+            "phoneNumber": 8830106033
+        },
+        "caseID": 5270655,
+        "state": "Odisha",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abhaya",
+            "lastName": "Prada",
+            "phoneNumber": 8587542949,
+            "email": "abhayaprada@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Tej",
+            "lastName": "Bahadur",
+            "phoneNumber": 8188308137
+        },
+        "party2": {
+            "firstName": "Hari",
+            "lastName": "raj",
+            "phoneNumber": 7709993160
+        },
+        "caseID": 8178553,
+        "state": "Odisha",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Veda",
+            "lastName": "Sri",
+            "phoneNumber": 7382917985,
+            "email": "vedasri@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Bala",
+            "lastName": "Subramani",
+            "phoneNumber": 8964102328
+        },
+        "party2": {
+            "firstName": "Nitya",
+            "lastName": "Sundara",
+            "phoneNumber": 8798195110
+        },
+        "caseID": 1221265,
+        "state": "Puducherry",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Uthaya",
+            "lastName": "mathavi",
+            "phoneNumber": 6845941471,
+            "email": "uthayamathavi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Preetam",
+            "lastName": "Priyam",
+            "phoneNumber": 9889352874
+        },
+        "party2": {
+            "firstName": "Rathna",
+            "lastName": "Kumar",
+            "phoneNumber": 8573140992
+        },
+        "caseID": 1051526,
+        "state": "Sikkim",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Maiyil",
+            "lastName": "vahanan",
+            "phoneNumber": 8187193297,
+            "email": "maiyilvahanan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ananda",
+            "lastName": "ganeshan",
+            "phoneNumber": 9072537271
+        },
+        "party2": {
+            "firstName": "Ezhil",
+            "lastName": "suresh",
+            "phoneNumber": 9895230105
+        },
+        "caseID": 2571855,
+        "state": "Andaman and Nicobar",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Dravida",
+            "lastName": "selvi",
+            "phoneNumber": 8008986966,
+            "email": "dravidaselvi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Aswin",
+            "lastName": "kumar",
+            "phoneNumber": 9770722249
+        },
+        "party2": {
+            "firstName": "Ved",
+            "lastName": "Viyan",
+            "phoneNumber": 7801620864
+        },
+        "caseID": 7875300,
+        "state": "Mizoram",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Muhammed",
+            "lastName": "Bux",
+            "phoneNumber": 7143745317,
+            "email": "muhammedbux@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Abdul",
+            "lastName": "Raheem",
+            "phoneNumber": 9015707658
+        },
+        "party2": {
+            "firstName": "Shiva",
+            "lastName": "Kumar",
+            "phoneNumber": 8503511069
+        },
+        "caseID": 4476416,
+        "state": "Kerala",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abdul",
+            "lastName": "Gani",
+            "phoneNumber": 9651215877,
+            "email": "abdulgani@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Nand",
+            "lastName": "Kishore",
+            "phoneNumber": 9797366982
+        },
+        "party2": {
+            "firstName": "Devi",
+            "lastName": "Priya",
+            "phoneNumber": 9353997195
+        },
+        "caseID": 9931027,
+        "state": "Maharashtra",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Madhu",
+            "lastName": "vernon",
+            "phoneNumber": 6252037255,
+            "email": "madhuvernon@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Kala",
+            "lastName": "Priya",
+            "phoneNumber": 8465741581
+        },
+        "party2": {
+            "firstName": "Satya",
+            "lastName": "Teja",
+            "phoneNumber": 9478842208
+        },
+        "caseID": 7621057,
+        "state": "Puducherry",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ananda",
+            "lastName": "jeyshan",
+            "phoneNumber": 6851037738,
+            "email": "anandajeyshan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Tamil",
+            "lastName": "selvi",
+            "phoneNumber": 8433944617
+        },
+        "party2": {
+            "firstName": "Venu",
+            "lastName": "Gopal",
+            "phoneNumber": 8812300555
+        },
+        "caseID": 7396853,
+        "state": "Manipur",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Padmanabha",
+            "lastName": "Priya",
+            "phoneNumber": 8164826224,
+            "email": "padmanabhapriya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Maha",
+            "lastName": "Durga",
+            "phoneNumber": 8698197987
+        },
+        "party2": {
+            "firstName": "Grha",
+            "lastName": "Lakshmi",
+            "phoneNumber": 8132199701
+        },
+        "caseID": 6456037,
+        "state": "Chandigarh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Rajendra",
+            "lastName": "Mohan",
+            "phoneNumber": 6647002200,
+            "email": "rajendramohan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Divya",
+            "lastName": "sasi",
+            "phoneNumber": 8102705284
+        },
+        "party2": {
+            "firstName": "Ashok",
+            "lastName": "kumar",
+            "phoneNumber": 8477669894
+        },
+        "caseID": 2351269,
+        "state": "Jharkhand",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Akshay",
+            "lastName": "Keerti",
+            "phoneNumber": 7369306727,
+            "email": "akshaykeerti@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ananda",
+            "lastName": "desikan",
+            "phoneNumber": 8828594965
+        },
+        "party2": {
+            "firstName": "Kaviya",
+            "lastName": "ilakkiya",
+            "phoneNumber": 9071636240
+        },
+        "caseID": 6003018,
+        "state": "Assam",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Anu",
+            "lastName": "sri",
+            "phoneNumber": 9386262040,
+            "email": "anusri@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ananda",
+            "lastName": "jenagan",
+            "phoneNumber": 7970820638
+        },
+        "party2": {
+            "firstName": "Kanhaiya",
+            "lastName": "Lal",
+            "phoneNumber": 9584217054
+        },
+        "caseID": 6362186,
+        "state": "Delhi",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mukunth",
+            "lastName": "vijay",
+            "phoneNumber": 6966692645,
+            "email": "mukunthvijay@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Baanke",
+            "lastName": "Bihari",
+            "phoneNumber": 6710878510
+        },
+        "party2": {
+            "firstName": "Mohd.",
+            "lastName": "Jamal",
+            "phoneNumber": 8254225724
+        },
+        "caseID": 3344749,
+        "state": "Nagaland",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Jaya",
+            "lastName": "Prateek",
+            "phoneNumber": 7096460306,
+            "email": "jayaprateek@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ananda",
+            "lastName": "jaarathan",
+            "phoneNumber": 7486903199
+        },
+        "party2": {
+            "firstName": "Bhanu",
+            "lastName": "Rekha",
+            "phoneNumber": 7972658080
+        },
+        "caseID": 6146574,
+        "state": "Dadra and Nagar Haveli",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Karish",
+            "lastName": "bawan",
+            "phoneNumber": 9454676215,
+            "email": "karishbawan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Suman",
+            "lastName": "raj",
+            "phoneNumber": 6416749775
+        },
+        "party2": {
+            "firstName": "Hari",
+            "lastName": "Priya",
+            "phoneNumber": 8909880450
+        },
+        "caseID": 5686113,
+        "state": "Karnataka",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ved",
+            "lastName": "Aryan",
+            "phoneNumber": 8798480871,
+            "email": "vedaryan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Aadal",
+            "lastName": "azhagi",
+            "phoneNumber": 9171880276
+        },
+        "party2": {
+            "firstName": "Saayi",
+            "lastName": "brunthan",
+            "phoneNumber": 6544956281
+        },
+        "caseID": 9686001,
+        "state": "Meghalaya",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Gokul",
+            "lastName": "raman",
+            "phoneNumber": 8908334946,
+            "email": "gokulraman@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Daitya",
+            "lastName": "Sai",
+            "phoneNumber": 9222489635
+        },
+        "party2": {
+            "firstName": "Da",
+            "lastName": "Shin",
+            "phoneNumber": 9787582037
+        },
+        "caseID": 5619498,
+        "state": "Goa",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Rishi",
+            "lastName": "Rochan",
+            "phoneNumber": 9402368146,
+            "email": "rishirochan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ananda",
+            "lastName": "sriranjan",
+            "phoneNumber": 6420383960
+        },
+        "party2": {
+            "firstName": "Bhupinder",
+            "lastName": "Pal",
+            "phoneNumber": 9014307646
+        },
+        "caseID": 3371989,
+        "state": "Daman and Diu",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Uma",
+            "lastName": "Devi",
+            "phoneNumber": 6793600038,
+            "email": "umadevi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Alok",
+            "lastName": "Nath",
+            "phoneNumber": 7894301320
+        },
+        "party2": {
+            "firstName": "Povana",
+            "lastName": "arrti",
+            "phoneNumber": 9021151647
+        },
+        "caseID": 9819207,
+        "state": "Uttar Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Shiva",
+            "lastName": "vishnu",
+            "phoneNumber": 6502216237,
+            "email": "shivavishnu@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sada",
+            "lastName": "Sivam",
+            "phoneNumber": 9835867360
+        },
+        "party2": {
+            "firstName": "Sai",
+            "lastName": "Arjun",
+            "phoneNumber": 9579855049
+        },
+        "caseID": 6382510,
+        "state": "Chandigarh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ajit",
+            "lastName": "Kumar",
+            "phoneNumber": 9666573098,
+            "email": "ajitkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Venkat",
+            "lastName": "Mani",
+            "phoneNumber": 6070284242
+        },
+        "party2": {
+            "firstName": "Arun",
+            "lastName": "sabarish",
+            "phoneNumber": 8726609610
+        },
+        "caseID": 8406567,
+        "state": "Kerala",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abdul",
+            "lastName": "Gaffar",
+            "phoneNumber": 7320025834,
+            "email": "abdulgaffar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sinthu",
+            "lastName": "ram",
+            "phoneNumber": 7861036990
+        },
+        "party2": {
+            "firstName": "Vijval",
+            "lastName": "sachin",
+            "phoneNumber": 8327049768
+        },
+        "caseID": 6513724,
+        "state": "Arunachal Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Hari",
+            "lastName": "dharshini",
+            "phoneNumber": 7619155469,
+            "email": "haridharshini@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Bashir",
+            "lastName": "Ahmad",
+            "phoneNumber": 7588994662
+        },
+        "party2": {
+            "firstName": "Kobi",
+            "lastName": "krishna",
+            "phoneNumber": 6731227487
+        },
+        "caseID": 4459052,
+        "state": "Meghalaya",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Laxmi",
+            "lastName": "Narayana",
+            "phoneNumber": 8481754921,
+            "email": "laxminarayana@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Hema",
+            "lastName": "Malini",
+            "phoneNumber": 8964790987
+        },
+        "party2": {
+            "firstName": "Gogul",
+            "lastName": "kumar",
+            "phoneNumber": 6887517610
+        },
+        "caseID": 4569072,
+        "state": "Assam",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Vinu",
+            "lastName": "dharunesh",
+            "phoneNumber": 9395827859,
+            "email": "vinudharunesh@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Dinesh",
+            "lastName": "varma",
+            "phoneNumber": 9756696545
+        },
+        "party2": {
+            "firstName": "Nesa",
+            "lastName": "mithran",
+            "phoneNumber": 9090677804
+        },
+        "caseID": 2694920,
+        "state": "Sikkim",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Pavan",
+            "lastName": "Teja",
+            "phoneNumber": 8344379572,
+            "email": "pavanteja@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Siva",
+            "lastName": "Krishna",
+            "phoneNumber": 7733099652
+        },
+        "party2": {
+            "firstName": "Anu",
+            "lastName": "Priya",
+            "phoneNumber": 9237243041
+        },
+        "caseID": 7893083,
+        "state": "Manipur",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Charan",
+            "lastName": "Raj",
+            "phoneNumber": 6697571222,
+            "email": "charanraj@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Maha",
+            "lastName": "Lakshmi",
+            "phoneNumber": 8888646153
+        },
+        "party2": {
+            "firstName": "Vivek",
+            "lastName": "Vardhan",
+            "phoneNumber": 7223977974
+        },
+        "caseID": 5771270,
+        "state": "Karnataka",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mani",
+            "lastName": "varma",
+            "phoneNumber": 7735020137,
+            "email": "manivarma@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Maha",
+            "lastName": "Dhyuta",
+            "phoneNumber": 8381892042
+        },
+        "party2": {
+            "firstName": "Bala",
+            "lastName": "Shankar",
+            "phoneNumber": 8751789723
+        },
+        "caseID": 6462115,
+        "state": "Puducherry",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Triloki",
+            "lastName": "Nath",
+            "phoneNumber": 9586820860,
+            "email": "trilokinath@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Aditya",
+            "lastName": "sundar",
+            "phoneNumber": 6511774357
+        },
+        "party2": {
+            "firstName": "Ajit",
+            "lastName": "Kumaar",
+            "phoneNumber": 8338648311
+        },
+        "caseID": 6445751,
+        "state": "Manipur",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Gouri",
+            "lastName": "Nanda",
+            "phoneNumber": 8128356459,
+            "email": "gourinanda@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Gopala",
+            "lastName": "Krishnan",
+            "phoneNumber": 8219795817
+        },
+        "party2": {
+            "firstName": "Abdul",
+            "lastName": "Ahad",
+            "phoneNumber": 7372681598
+        },
+        "caseID": 9691026,
+        "state": "Sikkim",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Muthu",
+            "lastName": "kiruba",
+            "phoneNumber": 9716352790,
+            "email": "muthukiruba@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Uma",
+            "lastName": "shara",
+            "phoneNumber": 6184891721
+        },
+        "party2": {
+            "firstName": "Jai",
+            "lastName": "ganesh",
+            "phoneNumber": 9245160406
+        },
+        "caseID": 9987672,
+        "state": "Meghalaya",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Arpudha",
+            "lastName": "devi",
+            "phoneNumber": 7891604432,
+            "email": "arpudhadevi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sinthu",
+            "lastName": "jayen",
+            "phoneNumber": 8828383505
+        },
+        "party2": {
+            "firstName": "Anna",
+            "lastName": "kamatchi",
+            "phoneNumber": 9220070836
+        },
+        "caseID": 2346601,
+        "state": "Andhra Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mohd.",
+            "lastName": "Ramzan",
+            "phoneNumber": 8941254529,
+            "email": "mohd.ramzan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Shri",
+            "lastName": "Krishna",
+            "phoneNumber": 9739890416
+        },
+        "party2": {
+            "firstName": "Kamala",
+            "lastName": "Sambhava",
+            "phoneNumber": 9417726867
+        },
+        "caseID": 3401832,
+        "state": "Chandigarh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Raksha",
+            "lastName": "shri",
+            "phoneNumber": 7703449238,
+            "email": "rakshashri@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ajay",
+            "lastName": "karthikeyan",
+            "phoneNumber": 6544814998
+        },
+        "party2": {
+            "firstName": "Ram",
+            "lastName": "Prasad",
+            "phoneNumber": 8586188368
+        },
+        "caseID": 1402154,
+        "state": "Manipur",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Maruthi",
+            "lastName": "Prasad",
+            "phoneNumber": 6566418168,
+            "email": "maruthiprasad@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Lakshmi",
+            "lastName": "Durga",
+            "phoneNumber": 7209655452
+        },
+        "party2": {
+            "firstName": "Bala",
+            "lastName": "Adithya",
+            "phoneNumber": 6034636654
+        },
+        "caseID": 9874557,
+        "state": "Nagaland",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abdus",
+            "lastName": "Shafi",
+            "phoneNumber": 9570494406,
+            "email": "abdusshafi@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Mathura",
+            "lastName": "menan",
+            "phoneNumber": 7210903181
+        },
+        "party2": {
+            "firstName": "Uthaya",
+            "lastName": "mathavan",
+            "phoneNumber": 9214863851
+        },
+        "caseID": 5380263,
+        "state": "Chandigarh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Palani",
+            "lastName": "Kumar",
+            "phoneNumber": 9791852714,
+            "email": "palanikumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sanjay",
+            "lastName": "sri",
+            "phoneNumber": 9694356940
+        },
+        "party2": {
+            "firstName": "Piraveen",
+            "lastName": "raam",
+            "phoneNumber": 9442171096
+        },
+        "caseID": 8050052,
+        "state": "West Bengal",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Keval",
+            "lastName": "Kumar",
+            "phoneNumber": 9792772762,
+            "email": "kevalkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ravi",
+            "lastName": "sankar",
+            "phoneNumber": 9054304454
+        },
+        "party2": {
+            "firstName": "Ganesh",
+            "lastName": "anand",
+            "phoneNumber": 7510600813
+        },
+        "caseID": 9180600,
+        "state": "Punjab",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mohd.",
+            "lastName": "Jabbar",
+            "phoneNumber": 8679394052,
+            "email": "mohd.jabbar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Isai",
+            "lastName": "moli",
+            "phoneNumber": 9373297689
+        },
+        "party2": {
+            "firstName": "Sri",
+            "lastName": "barathan",
+            "phoneNumber": 9680993957
+        },
+        "caseID": 9225421,
+        "state": "Goa",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sai",
+            "lastName": "Amartya",
+            "phoneNumber": 7949384980,
+            "email": "saiamartya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ezhil",
+            "lastName": "arasi",
+            "phoneNumber": 6765739782
+        },
+        "party2": {
+            "firstName": "Nithi",
+            "lastName": "vainavi",
+            "phoneNumber": 8624920954
+        },
+        "caseID": 7895360,
+        "state": "Lakshadweep",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Katheesh",
+            "lastName": "kumar",
+            "phoneNumber": 7064624053,
+            "email": "katheeshkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Uthaya",
+            "lastName": "jana",
+            "phoneNumber": 8299460534
+        },
+        "party2": {
+            "firstName": "Deepa",
+            "lastName": "malika",
+            "phoneNumber": 7618160271
+        },
+        "caseID": 3950281,
+        "state": "Gujarat",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Dhinesh",
+            "lastName": "kumar",
+            "phoneNumber": 7082027836,
+            "email": "dhineshkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Vijay",
+            "lastName": "kannan",
+            "phoneNumber": 6078570078
+        },
+        "party2": {
+            "firstName": "Yuvan",
+            "lastName": "rajarajan",
+            "phoneNumber": 7991528558
+        },
+        "caseID": 7642575,
+        "state": "Sikkim",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Chandra",
+            "lastName": "priya",
+            "phoneNumber": 8200481492,
+            "email": "chandrapriya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ratna",
+            "lastName": "Nidhi",
+            "phoneNumber": 6827501990
+        },
+        "party2": {
+            "firstName": "Shri",
+            "lastName": "Gopal",
+            "phoneNumber": 8508795373
+        },
+        "caseID": 4615871,
+        "state": "Odisha",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Tamizh",
+            "lastName": "dasan",
+            "phoneNumber": 8250678261,
+            "email": "tamizhdasan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Malaimakal",
+            "lastName": "Makan",
+            "phoneNumber": 7414512169
+        },
+        "party2": {
+            "firstName": "Ezhil",
+            "lastName": "nila",
+            "phoneNumber": 8110678832
+        },
+        "caseID": 1322097,
+        "state": "Chhattisgarh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Vighna",
+            "lastName": "Vinashanaya",
+            "phoneNumber": 8701970887,
+            "email": "vighnavinashanaya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Keerthi",
+            "lastName": "varman",
+            "phoneNumber": 6663127828
+        },
+        "party2": {
+            "firstName": "Pushp",
+            "lastName": "Mitra",
+            "phoneNumber": 7792326912
+        },
+        "caseID": 9006099,
+        "state": "Andhra Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sai",
+            "lastName": "Karthik",
+            "phoneNumber": 9139832320,
+            "email": "saikarthik@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Dashagreeva",
+            "lastName": "Shirohara",
+            "phoneNumber": 7729651878
+        },
+        "party2": {
+            "firstName": "Kavin",
+            "lastName": "Ram",
+            "phoneNumber": 7672722342
+        },
+        "caseID": 5854278,
+        "state": "Chhattisgarh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Vijay",
+            "lastName": "sharmith",
+            "phoneNumber": 7108523069,
+            "email": "vijaysharmith@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Adi",
+            "lastName": "Shakti",
+            "phoneNumber": 6483080943
+        },
+        "party2": {
+            "firstName": "Satya",
+            "lastName": "Akshaj",
+            "phoneNumber": 6665854917
+        },
+        "caseID": 6123637,
+        "state": "Rajasthan",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sai",
+            "lastName": "Bindhu",
+            "phoneNumber": 9178350927,
+            "email": "saibindhu@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Muthu",
+            "lastName": "chudar",
+            "phoneNumber": 6193704875
+        },
+        "party2": {
+            "firstName": "Isai",
+            "lastName": "aruvi",
+            "phoneNumber": 7653714651
+        },
+        "caseID": 8004308,
+        "state": "Lakshadweep",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Kesha",
+            "lastName": "ruban",
+            "phoneNumber": 6188021471,
+            "email": "kesharuban@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ratna",
+            "lastName": "Priya",
+            "phoneNumber": 6358067680
+        },
+        "party2": {
+            "firstName": "Saanvi",
+            "lastName": "Tarita",
+            "phoneNumber": 6181620324
+        },
+        "caseID": 9372880,
+        "state": "Punjab",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abdul",
+            "lastName": "Rahman",
+            "phoneNumber": 8428231234,
+            "email": "abdulrahman@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Selva",
+            "lastName": "kumuran",
+            "phoneNumber": 7994090994
+        },
+        "party2": {
+            "firstName": "Ishwara",
+            "lastName": "Priya",
+            "phoneNumber": 9236935917
+        },
+        "caseID": 9046224,
+        "state": "Gujarat",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Mahishasura",
+            "lastName": "Mardini",
+            "phoneNumber": 7433990517,
+            "email": "mahishasuramardini@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Anitha",
+            "lastName": "devi",
+            "phoneNumber": 8526557344
+        },
+        "party2": {
+            "firstName": "Shravan",
+            "lastName": "Kumar",
+            "phoneNumber": 8422856840
+        },
+        "caseID": 9438713,
+        "state": "Kerala",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Niresh",
+            "lastName": "kumar",
+            "phoneNumber": 9165675417,
+            "email": "nireshkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Jai",
+            "lastName": "Priya",
+            "phoneNumber": 7207413151
+        },
+        "party2": {
+            "firstName": "Madhu",
+            "lastName": "Bindu",
+            "phoneNumber": 8693927506
+        },
+        "caseID": 3851754,
+        "state": "Tamil Nadu",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Yanaikkum",
+            "lastName": "Kuzhakan",
+            "phoneNumber": 9537965152,
+            "email": "yanaikkumkuzhakan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Anjana",
+            "lastName": "devi",
+            "phoneNumber": 7156967661
+        },
+        "party2": {
+            "firstName": "Gokula",
+            "lastName": "krishna",
+            "phoneNumber": 7707418508
+        },
+        "caseID": 5093075,
+        "state": "Assam",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Gyan",
+            "lastName": "Singh",
+            "phoneNumber": 8940388533,
+            "email": "gyansingh@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Narayana",
+            "lastName": "Swamy",
+            "phoneNumber": 6390045169
+        },
+        "party2": {
+            "firstName": "Vimal",
+            "lastName": "kanna",
+            "phoneNumber": 7587270104
+        },
+        "caseID": 9257078,
+        "state": "Andhra Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ananda",
+            "lastName": "niranjan",
+            "phoneNumber": 7893237894,
+            "email": "anandaniranjan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ananda",
+            "lastName": "kumaran",
+            "phoneNumber": 7438341367
+        },
+        "party2": {
+            "firstName": "Vasu",
+            "lastName": "Lakshmi",
+            "phoneNumber": 7327279934
+        },
+        "caseID": 9744093,
+        "state": "Chhattisgarh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Vasantha",
+            "lastName": "priya",
+            "phoneNumber": 6368505756,
+            "email": "vasanthapriya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Deena",
+            "lastName": "Nath",
+            "phoneNumber": 6009176353
+        },
+        "party2": {
+            "firstName": "Sinthu",
+            "lastName": "priyan",
+            "phoneNumber": 9292118906
+        },
+        "caseID": 5008709,
+        "state": "Gujarat",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Tamil",
+            "lastName": "kothai",
+            "phoneNumber": 8610936565,
+            "email": "tamilkothai@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Suresh",
+            "lastName": "kumar",
+            "phoneNumber": 6122207982
+        },
+        "party2": {
+            "firstName": "Siva",
+            "lastName": "kaarthikeyan",
+            "phoneNumber": 8305530127
+        },
+        "caseID": 2533588,
+        "state": "Odisha",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Jiya",
+            "lastName": "Ushas",
+            "phoneNumber": 6776132434,
+            "email": "jiyaushas@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Raja",
+            "lastName": "mani",
+            "phoneNumber": 6061754907
+        },
+        "party2": {
+            "firstName": "Sri",
+            "lastName": "Kanth",
+            "phoneNumber": 8235437350
+        },
+        "caseID": 2347718,
+        "state": "Rajasthan",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Akarsh",
+            "lastName": "Shubhan",
+            "phoneNumber": 8470123149,
+            "email": "akarshshubhan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Naveen",
+            "lastName": "krishnan",
+            "phoneNumber": 9815656273
+        },
+        "party2": {
+            "firstName": "Illan",
+            "lastName": "chenni",
+            "phoneNumber": 8660145146
+        },
+        "caseID": 2270410,
+        "state": "Nagaland",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Chandana",
+            "lastName": "murugan",
+            "phoneNumber": 7006390968,
+            "email": "chandanamurugan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sai",
+            "lastName": "sundar",
+            "phoneNumber": 9344951631
+        },
+        "party2": {
+            "firstName": "Renesh",
+            "lastName": "Arya",
+            "phoneNumber": 9640715878
+        },
+        "caseID": 9740550,
+        "state": "Andhra Pradesh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Dev",
+            "lastName": "Kumar",
+            "phoneNumber": 7740290705,
+            "email": "devkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Uthaya",
+            "lastName": "priya",
+            "phoneNumber": 9297378566
+        },
+        "party2": {
+            "firstName": "Abdul",
+            "lastName": "Ali",
+            "phoneNumber": 6258562375
+        },
+        "caseID": 2213122,
+        "state": "Andhra Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Katir",
+            "lastName": "Kamattuican",
+            "phoneNumber": 9988698104,
+            "email": "katirkamattuican@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Bhavya",
+            "lastName": "Sri",
+            "phoneNumber": 9486068315
+        },
+        "party2": {
+            "firstName": "Dandakaranya",
+            "lastName": "Punyakrute",
+            "phoneNumber": 6182747394
+        },
+        "caseID": 9725037,
+        "state": "Rajasthan",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Sai",
+            "lastName": "Prasad",
+            "phoneNumber": 9613127967,
+            "email": "saiprasad@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Jiya",
+            "lastName": "Ram",
+            "phoneNumber": 9409379724
+        },
+        "party2": {
+            "firstName": "Ananda",
+            "lastName": "Lakshmi",
+            "phoneNumber": 8851525236
+        },
+        "caseID": 3498602,
+        "state": "Uttar Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Bal",
+            "lastName": "Krishan",
+            "phoneNumber": 8551176410,
+            "email": "balkrishan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Harinitha",
+            "lastName": "sankari",
+            "phoneNumber": 9933547667
+        },
+        "party2": {
+            "firstName": "Punnagai",
+            "lastName": "arasi",
+            "phoneNumber": 8327817570
+        },
+        "caseID": 4950625,
+        "state": "West Bengal",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Isha",
+            "lastName": "Kritik",
+            "phoneNumber": 8319311318,
+            "email": "ishakritik@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Prabhu",
+            "lastName": "kumar",
+            "phoneNumber": 9383936499
+        },
+        "party2": {
+            "firstName": "Hari",
+            "lastName": "Charan",
+            "phoneNumber": 7769677510
+        },
+        "caseID": 4681356,
+        "state": "Haryana",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Om",
+            "lastName": "Prakash",
+            "phoneNumber": 6405467408,
+            "email": "omprakash@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Azhagiya",
+            "lastName": "raj",
+            "phoneNumber": 7699533330
+        },
+        "party2": {
+            "firstName": "Pita",
+            "lastName": "Vasase",
+            "phoneNumber": 8834455817
+        },
+        "caseID": 9035428,
+        "state": "Chhattisgarh",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Ratna",
+            "lastName": "Bala",
+            "phoneNumber": 7993460555,
+            "email": "ratnabala@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Sai",
+            "lastName": "gowshik",
+            "phoneNumber": 6159498475
+        },
+        "party2": {
+            "firstName": "Aly",
+            "lastName": "Khan",
+            "phoneNumber": 7189528937
+        },
+        "caseID": 1264402,
+        "state": "Manipur",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Dev",
+            "lastName": "Naren",
+            "phoneNumber": 9036353679,
+            "email": "devnaren@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Bishwa",
+            "lastName": "Mohan",
+            "phoneNumber": 9028508530
+        },
+        "party2": {
+            "firstName": "Akshaya",
+            "lastName": "anusree",
+            "phoneNumber": 8258224466
+        },
+        "caseID": 7917159,
+        "state": "Maharashtra",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Kodi",
+            "lastName": "malar",
+            "phoneNumber": 7766210937,
+            "email": "kodimalar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Baanke",
+            "lastName": "Bihaari",
+            "phoneNumber": 9581893893
+        },
+        "party2": {
+            "firstName": "Abdus",
+            "lastName": "Samad",
+            "phoneNumber": 6833832980
+        },
+        "caseID": 5959944,
+        "state": "Jammu and Kashmir",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Dhana",
+            "lastName": "Priya",
+            "phoneNumber": 8448203393,
+            "email": "dhanapriya@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Hima",
+            "lastName": "Bindu",
+            "phoneNumber": 8271930650
+        },
+        "party2": {
+            "firstName": "Ajay",
+            "lastName": "krishna",
+            "phoneNumber": 7059649352
+        },
+        "caseID": 1821767,
+        "state": "Madhya Pradesh",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Raja",
+            "lastName": "varna",
+            "phoneNumber": 6109085671,
+            "email": "rajavarna@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Thamizh",
+            "lastName": "veeran",
+            "phoneNumber": 6744425562
+        },
+        "party2": {
+            "firstName": "Isai",
+            "lastName": "amuthan",
+            "phoneNumber": 8712708494
+        },
+        "caseID": 2807730,
+        "state": "Punjab",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Jenesh",
+            "lastName": "kumar",
+            "phoneNumber": 7411379875,
+            "email": "jeneshkumar@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Janyaa",
+            "lastName": "shuruthi",
+            "phoneNumber": 8011741713
+        },
+        "party2": {
+            "firstName": "Ruthra",
+            "lastName": "priya",
+            "phoneNumber": 9155929486
+        },
+        "caseID": 8447765,
+        "state": "Daman and Diu",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Abdul",
+            "lastName": "Wahab",
+            "phoneNumber": 9568357816,
+            "email": "abdulwahab@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Ananda",
+            "lastName": "kapilan",
+            "phoneNumber": 9098108482
+        },
+        "party2": {
+            "firstName": "Hiresh",
+            "lastName": "raj",
+            "phoneNumber": 8553074954
+        },
+        "caseID": 7595683,
+        "state": "Telangana",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Dhana",
+            "lastName": "sri",
+            "phoneNumber": 8394285232,
+            "email": "dhanasri@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Hari",
+            "lastName": "Krishna",
+            "phoneNumber": 6354065575
+        },
+        "party2": {
+            "firstName": "Ilam",
+            "lastName": "valuthi",
+            "phoneNumber": 7255366860
+        },
+        "caseID": 4379339,
+        "state": "Tamil Nadu",
+        "caseType": "Mediation",
+        "documentPath": ""
+    },
+    {
+        "arbitrator": {
+            "firstName": "Anantha",
+            "lastName": "kannan",
+            "phoneNumber": 6234828548,
+            "email": "ananthakannan@gmail.com",
+            "password": "password"
+        },
+        "party1": {
+            "firstName": "Achyut",
+            "lastName": "Pragna",
+            "phoneNumber": 8721503260
+        },
+        "party2": {
+            "firstName": "Sai",
+            "lastName": "Anand",
+            "phoneNumber": 7322266085
+        },
+        "caseID": 2726907,
+        "state": "Karnataka",
+        "caseType": "Arbitration",
+        "documentPath": ""
+    }
+]
