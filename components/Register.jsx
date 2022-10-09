@@ -433,7 +433,7 @@ const Register= () => {
                 {/* Modal body */}
                 <div className="p-6 space-y-6">
                   <p className="text-base leading-relaxed text-gray-500 dark:text-gray-400">
-                    E-Mediate is a self sustaining platform that provides data storage and Access
+                    E-Mediate is a self sustaining platform that provides data storage and access
                     options for Arbitration and Mediation proceedings. The platform is designed to
                     provide a secure and transparent environment for the parties to the dispute to
                     access the documents of the proceedings.

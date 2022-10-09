@@ -5,7 +5,7 @@ import Footer from '../../components/Footer'
 
 export default function RegisterPage() {
   return (
-    <div className='fixed  Montserrat bg-hero-pattern  h-screen bg w-screen overflow-scroll'>
+    <div className='fixed font-Montserrat bg-hero-pattern  h-screen bg w-screen overflow-scroll'>
       <Head>
         <title>E-Mediate</title>
         <meta name="description" content="Data Storage for Arbitration and Mediation Documents" />
