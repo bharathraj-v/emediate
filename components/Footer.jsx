@@ -9,7 +9,7 @@ const Footer = () => (
             <Link href="http://www.linkedin.com/in/bharathraj-v">Linkedin</Link>
         </li>
         <li className="mr-4 hover:underline md:mr-6">
-            <button onClick={()=>{window.open('mailto:bharathrajpalivela@gmail.com','_self')}} >Contact Me</button>
+            <button className="hover:underline" onClick={()=>{window.open('mailto:bharathrajpalivela@gmail.com','_self')}} >Contact Me</button>
         </li>
         <li  className="mr-4 hover:underline md:mr-6">
             <Link href="http://www.github.com/bharathraj-v">Follow on Github</Link>
